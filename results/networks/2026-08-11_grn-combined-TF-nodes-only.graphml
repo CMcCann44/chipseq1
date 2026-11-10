@@ -1,0 +1,4860 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="qvalue" attr.type="double" />
+  <key id="d2" for="edge" attr.name="distance_bp" attr.type="long" />
+  <key id="d1" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d0" for="node" attr.name="node_type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="ZNF511">
+      <data key="d0">TF</data>
+    </node>
+    <node id="RBM39">
+      <data key="d0">TF</data>
+    </node>
+    <node id="CCAR2">
+      <data key="d0">TF</data>
+    </node>
+    <node id="FUS">
+      <data key="d0">TF</data>
+    </node>
+    <node id="LIN54">
+      <data key="d0">TF</data>
+    </node>
+    <node id="CSRNP2">
+      <data key="d0">TF</data>
+    </node>
+    <node id="SRSF1">
+      <data key="d0">TF</data>
+    </node>
+    <node id="SOX13">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF589">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF629">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ATF6">
+      <data key="d0">TF</data>
+    </node>
+    <node id="MBD1">
+      <data key="d0">TF</data>
+    </node>
+    <node id="SRSF4">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF786">
+      <data key="d0">TF</data>
+    </node>
+    <node id="TAF15">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF513">
+      <data key="d0">TF</data>
+    </node>
+    <node id="RNF2">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF256">
+      <data key="d0">TF</data>
+    </node>
+    <node id="E2F5">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF639">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF697">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZFAT">
+      <data key="d0">TF</data>
+    </node>
+    <node id="AGO2">
+      <data key="d0">TF</data>
+    </node>
+    <node id="POGK">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ETV6">
+      <data key="d0">TF</data>
+    </node>
+    <node id="XRCC5">
+      <data key="d0">TF</data>
+    </node>
+    <node id="HMGA1">
+      <data key="d0">TF</data>
+    </node>
+    <node id="GTF3A">
+      <data key="d0">TF</data>
+    </node>
+    <node id="RBM22">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF546">
+      <data key="d0">TF</data>
+    </node>
+    <node id="DNMT3B">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZSCAN29">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF296">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF850">
+      <data key="d0">TF</data>
+    </node>
+    <node id="GRHL1">
+      <data key="d0">TF</data>
+    </node>
+    <node id="TP53">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZMAT3">
+      <data key="d0">TF</data>
+    </node>
+    <node id="REL">
+      <data key="d0">TF</data>
+    </node>
+    <node id="EZH2">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZBTB43">
+      <data key="d0">TF</data>
+    </node>
+    <node id="GTF2F1">
+      <data key="d0">TF</data>
+    </node>
+    <node id="MAFK">
+      <data key="d0">TF</data>
+    </node>
+    <node id="E2F8">
+      <data key="d0">TF</data>
+    </node>
+    <node id="PPARG">
+      <data key="d0">TF</data>
+    </node>
+    <node id="SKI">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF407">
+      <data key="d0">TF</data>
+    </node>
+    <node id="LRRFIP1">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZCCHC11">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF234">
+      <data key="d0">TF</data>
+    </node>
+    <node id="PAXIP1">
+      <data key="d0">TF</data>
+    </node>
+    <node id="HMG20B">
+      <data key="d0">TF</data>
+    </node>
+    <node id="NONO">
+      <data key="d0">TF</data>
+    </node>
+    <node id="FOXO4">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ZNF761">
+      <data key="d0">TF</data>
+    </node>
+    <node id="HNRNPH1">
+      <data key="d0">TF</data>
+    </node>
+    <node id="U2AF1">
+      <data key="d0">TF</data>
+    </node>
+    <node id="ISX">
+      <data key="d0">TF</data>
+    </node>
+    <edge source="ZNF511" target="RBM39">
+      <data key="d1">113.17264</data>
+      <data key="d2">10</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="CCAR2">
+      <data key="d1">77.18453</data>
+      <data key="d2">9</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="FUS">
+      <data key="d1">63.72415</data>
+      <data key="d2">6</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="LIN54">
+      <data key="d1">60.00588</data>
+      <data key="d2">143</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="CSRNP2">
+      <data key="d1">53.66927</data>
+      <data key="d2">15</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="SRSF1">
+      <data key="d1">51.94239</data>
+      <data key="d2">31</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="SOX13">
+      <data key="d1">47.45014</data>
+      <data key="d2">89</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="ZNF589">
+      <data key="d1">43.4332</data>
+      <data key="d2">44</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="ZNF629">
+      <data key="d1">42.187</data>
+      <data key="d2">4</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="ATF6">
+      <data key="d1">41.72059</data>
+      <data key="d2">835</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="MBD1">
+      <data key="d1">40.59311</data>
+      <data key="d2">193</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="SRSF4">
+      <data key="d1">39.60296</data>
+      <data key="d2">179</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="ZNF511">
+      <data key="d1">38.07566</data>
+      <data key="d2">944</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="ZNF786">
+      <data key="d1">37.04034</data>
+      <data key="d2">30</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="TAF15">
+      <data key="d1">36.96008</data>
+      <data key="d2">2</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="ZNF513">
+      <data key="d1">34.29416</data>
+      <data key="d2">75</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="RNF2">
+      <data key="d1">34.06255</data>
+      <data key="d2">358</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="ZNF256">
+      <data key="d1">32.35807</data>
+      <data key="d2">135</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="E2F5">
+      <data key="d1">31.28766</data>
+      <data key="d2">819</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="ZNF639">
+      <data key="d1">30.20887</data>
+      <data key="d2">849</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="ZNF697">
+      <data key="d1">29.90688</data>
+      <data key="d2">36</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="ZFAT">
+      <data key="d1">29.34095</data>
+      <data key="d2">53</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="AGO2">
+      <data key="d1">28.84323</data>
+      <data key="d2">527</data>
+      <data key="d3">4.59279</data>
+    </edge>
+    <edge source="ZNF511" target="POGK">
+      <data key="d1">16.86757</data>
+      <data key="d2">149</data>
+      <data key="d3">1.88829</data>
+    </edge>
+    <edge source="RBM39" target="RBM39">
+      <data key="d1">172.43971</data>
+      <data key="d2">136</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="FUS">
+      <data key="d1">126.31881</data>
+      <data key="d2">104</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="HMGA1">
+      <data key="d1">88.83823</data>
+      <data key="d2">1193</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="CSRNP2">
+      <data key="d1">83.17696</data>
+      <data key="d2">103</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ZNF629">
+      <data key="d1">82.52518</data>
+      <data key="d2">52</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="TAF15">
+      <data key="d1">81.42786</data>
+      <data key="d2">57</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="REL">
+      <data key="d1">71.87268</data>
+      <data key="d2">101</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="SRSF4">
+      <data key="d1">69.44612</data>
+      <data key="d2">317</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="XRCC5">
+      <data key="d1">63.72132</data>
+      <data key="d2">1952</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ZSCAN29">
+      <data key="d1">59.21423</data>
+      <data key="d2">213</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ZBTB43">
+      <data key="d1">56.0777</data>
+      <data key="d2">235</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ZNF786">
+      <data key="d1">55.1364</data>
+      <data key="d2">136</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ZFAT">
+      <data key="d1">50.47598</data>
+      <data key="d2">251</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ZNF234">
+      <data key="d1">49.9449</data>
+      <data key="d2">427</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="GTF3A">
+      <data key="d1">46.37041</data>
+      <data key="d2">301</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="EZH2">
+      <data key="d1">46.0973</data>
+      <data key="d2">4</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="MBD1">
+      <data key="d1">44.73558</data>
+      <data key="d2">164</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="AGO2">
+      <data key="d1">42.43656</data>
+      <data key="d2">1298</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="RBM22">
+      <data key="d1">42.33824</data>
+      <data key="d2">237</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ZNF407">
+      <data key="d1">42.07855</data>
+      <data key="d2">707</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="SKI">
+      <data key="d1">41.31217</data>
+      <data key="d2">360</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ZMAT3">
+      <data key="d1">39.21807</data>
+      <data key="d2">496</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="POGK">
+      <data key="d1">38.15085</data>
+      <data key="d2">70</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="MAFK">
+      <data key="d1">37.49922</data>
+      <data key="d2">1113</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="NONO">
+      <data key="d1">36.05033</data>
+      <data key="d2">34</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="E2F8">
+      <data key="d1">36.01854</data>
+      <data key="d2">217</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="TP53">
+      <data key="d1">33.66701</data>
+      <data key="d2">117</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="CCAR2">
+      <data key="d1">32.24187</data>
+      <data key="d2">29</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ZNF761">
+      <data key="d1">31.84327</data>
+      <data key="d2">53</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="LIN54">
+      <data key="d1">30.81556</data>
+      <data key="d2">161</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="GRHL1">
+      <data key="d1">30.26799</data>
+      <data key="d2">865</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="SOX13">
+      <data key="d1">29.59828</data>
+      <data key="d2">153</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="GTF2F1">
+      <data key="d1">28.12351</data>
+      <data key="d2">881</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ZNF639">
+      <data key="d1">28.10199</data>
+      <data key="d2">48</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ATF6">
+      <data key="d1">24.91571</data>
+      <data key="d2">90</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="DNMT3B">
+      <data key="d1">24.25948</data>
+      <data key="d2">20</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="SRSF1">
+      <data key="d1">19.95346</data>
+      <data key="d2">1205</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="ZNF850">
+      <data key="d1">19.68765</data>
+      <data key="d2">8</data>
+      <data key="d3">4.85922</data>
+    </edge>
+    <edge source="RBM39" target="E2F5">
+      <data key="d1">17.68021</data>
+      <data key="d2">551</data>
+      <data key="d3">3.76583</data>
+    </edge>
+    <edge source="RBM39" target="ZNF513">
+      <data key="d1">17.17728</data>
+      <data key="d2">743</data>
+      <data key="d3">3.64516</data>
+    </edge>
+    <edge source="CCAR2" target="RBM39">
+      <data key="d1">47.4547</data>
+      <data key="d2">148</data>
+      <data key="d3">2.70672</data>
+    </edge>
+    <edge source="CCAR2" target="CCAR2">
+      <data key="d1">38.75114</data>
+      <data key="d2">17</data>
+      <data key="d3">2.30031</data>
+    </edge>
+    <edge source="CCAR2" target="SRSF1">
+      <data key="d1">38.42568</data>
+      <data key="d2">220</data>
+      <data key="d3">2.32291</data>
+    </edge>
+    <edge source="CCAR2" target="ZNF786">
+      <data key="d1">30.66213</data>
+      <data key="d2">2</data>
+      <data key="d3">2.51295</data>
+    </edge>
+    <edge source="CCAR2" target="LIN54">
+      <data key="d1">22.74371</data>
+      <data key="d2">230</data>
+      <data key="d3">2.04724</data>
+    </edge>
+    <edge source="CCAR2" target="FUS">
+      <data key="d1">19.93909</data>
+      <data key="d2">124</data>
+      <data key="d3">1.64876</data>
+    </edge>
+    <edge source="FUS" target="ZNF786">
+      <data key="d1">51.76481</data>
+      <data key="d2">44</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="HMGA1">
+      <data key="d1">44.2605</data>
+      <data key="d2">2578</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="TAF15">
+      <data key="d1">37.10322</data>
+      <data key="d2">85</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="SRSF4">
+      <data key="d1">36.29148</data>
+      <data key="d2">27</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="EZH2">
+      <data key="d1">36.22519</data>
+      <data key="d2">308</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="ZNF589">
+      <data key="d1">35.04452</data>
+      <data key="d2">146</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="FUS">
+      <data key="d1">31.83416</data>
+      <data key="d2">23</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="POGK">
+      <data key="d1">31.73853</data>
+      <data key="d2">56</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="REL">
+      <data key="d1">29.78868</data>
+      <data key="d2">21</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="ZNF296">
+      <data key="d1">29.53347</data>
+      <data key="d2">90</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="ZNF511">
+      <data key="d1">27.96383</data>
+      <data key="d2">11</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="PAXIP1">
+      <data key="d1">27.09482</data>
+      <data key="d2">417</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="ZNF513">
+      <data key="d1">26.23437</data>
+      <data key="d2">34</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="SOX13">
+      <data key="d1">25.18804</data>
+      <data key="d2">286</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="CSRNP2">
+      <data key="d1">24.20808</data>
+      <data key="d2">264</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="LIN54">
+      <data key="d1">23.98449</data>
+      <data key="d2">187</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="DNMT3B">
+      <data key="d1">23.52412</data>
+      <data key="d2">114</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="SKI">
+      <data key="d1">22.87165</data>
+      <data key="d2">396</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="AGO2">
+      <data key="d1">21.89534</data>
+      <data key="d2">1253</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="CCAR2">
+      <data key="d1">21.46798</data>
+      <data key="d2">389</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="ZNF639">
+      <data key="d1">21.40223</data>
+      <data key="d2">739</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="E2F5">
+      <data key="d1">19.76713</data>
+      <data key="d2">776</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="HMG20B">
+      <data key="d1">19.52681</data>
+      <data key="d2">14</data>
+      <data key="d3">4.10772</data>
+    </edge>
+    <edge source="FUS" target="ZFAT">
+      <data key="d1">18.52366</data>
+      <data key="d2">83</data>
+      <data key="d3">3.64487</data>
+    </edge>
+    <edge source="FUS" target="GRHL1">
+      <data key="d1">17.37797</data>
+      <data key="d2">113</data>
+      <data key="d3">3.69522</data>
+    </edge>
+    <edge source="LIN54" target="SRSF1">
+      <data key="d1">973.04823</data>
+      <data key="d2">236</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZNF850">
+      <data key="d1">972.32839</data>
+      <data key="d2">0</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZNF256">
+      <data key="d1">868.05944</data>
+      <data key="d2">27</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="TP53">
+      <data key="d1">845.26067</data>
+      <data key="d2">858</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="E2F8">
+      <data key="d1">751.05077</data>
+      <data key="d2">601</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="XRCC5">
+      <data key="d1">701.00742</data>
+      <data key="d2">1883</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="SOX13">
+      <data key="d1">696.43142</data>
+      <data key="d2">1634</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="RBM39">
+      <data key="d1">648.168</data>
+      <data key="d2">144</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="LIN54">
+      <data key="d1">547.46337</data>
+      <data key="d2">41</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="FUS">
+      <data key="d1">530.23342</data>
+      <data key="d2">545</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="DNMT3B">
+      <data key="d1">441.23485</data>
+      <data key="d2">121</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="EZH2">
+      <data key="d1">426.72791</data>
+      <data key="d2">154</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZFAT">
+      <data key="d1">408.62946</data>
+      <data key="d2">595</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="CCAR2">
+      <data key="d1">399.25097</data>
+      <data key="d2">4</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="MBD1">
+      <data key="d1">392.9582</data>
+      <data key="d2">225</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZNF589">
+      <data key="d1">368.1471</data>
+      <data key="d2">74</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="TAF15">
+      <data key="d1">331.84409</data>
+      <data key="d2">16</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="RBM22">
+      <data key="d1">323.18009</data>
+      <data key="d2">38</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="CSRNP2">
+      <data key="d1">319.3205</data>
+      <data key="d2">46</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="REL">
+      <data key="d1">290.83256</data>
+      <data key="d2">75</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="SRSF4">
+      <data key="d1">271.80502</data>
+      <data key="d2">52</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ATF6">
+      <data key="d1">233.75617</data>
+      <data key="d2">44</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="E2F5">
+      <data key="d1">222.21969</data>
+      <data key="d2">4</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="HMG20B">
+      <data key="d1">221.67345</data>
+      <data key="d2">51</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZNF629">
+      <data key="d1">219.28786</data>
+      <data key="d2">42</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZNF296">
+      <data key="d1">210.69405</data>
+      <data key="d2">78</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="NONO">
+      <data key="d1">205.39762</data>
+      <data key="d2">40</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="GTF2F1">
+      <data key="d1">202.56269</data>
+      <data key="d2">704</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZBTB43">
+      <data key="d1">194.2601</data>
+      <data key="d2">18</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZNF786">
+      <data key="d1">160.52601</data>
+      <data key="d2">40</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZSCAN29">
+      <data key="d1">155.378</data>
+      <data key="d2">168</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZNF513">
+      <data key="d1">154.84104</data>
+      <data key="d2">47</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="HMGA1">
+      <data key="d1">152.86226</data>
+      <data key="d2">1147</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZNF407">
+      <data key="d1">142.16178</data>
+      <data key="d2">333</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZNF234">
+      <data key="d1">132.61323</data>
+      <data key="d2">140</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="PAXIP1">
+      <data key="d1">110.84663</data>
+      <data key="d2">371</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="RNF2">
+      <data key="d1">83.57421</data>
+      <data key="d2">319</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="FOXO4">
+      <data key="d1">83.20435</data>
+      <data key="d2">101</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZNF639">
+      <data key="d1">73.31052</data>
+      <data key="d2">78</data>
+      <data key="d3">4.58992</data>
+    </edge>
+    <edge source="LIN54" target="ZNF761">
+      <data key="d1">71.43641</data>
+      <data key="d2">69</data>
+      <data key="d3">3.90245</data>
+    </edge>
+    <edge source="LIN54" target="PPARG">
+      <data key="d1">59.32613</data>
+      <data key="d2">302</data>
+      <data key="d3">3.32819</data>
+    </edge>
+    <edge source="LIN54" target="AGO2">
+      <data key="d1">59.22385</data>
+      <data key="d2">1384</data>
+      <data key="d3">3.29299</data>
+    </edge>
+    <edge source="LIN54" target="POGK">
+      <data key="d1">42.9764</data>
+      <data key="d2">103</data>
+      <data key="d3">2.21289</data>
+    </edge>
+    <edge source="LIN54" target="ZNF511">
+      <data key="d1">39.51249</data>
+      <data key="d2">256</data>
+      <data key="d3">1.93179</data>
+    </edge>
+    <edge source="LIN54" target="GTF3A">
+      <data key="d1">32.96672</data>
+      <data key="d2">148</data>
+      <data key="d3">1.36508</data>
+    </edge>
+    <edge source="SRSF1" target="RBM39">
+      <data key="d1">98.34942</data>
+      <data key="d2">140</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="FUS">
+      <data key="d1">57.26129</data>
+      <data key="d2">84</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="ZNF256">
+      <data key="d1">52.55534</data>
+      <data key="d2">54</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="SRSF1">
+      <data key="d1">44.87017</data>
+      <data key="d2">264</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="REL">
+      <data key="d1">41.25314</data>
+      <data key="d2">189</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="CSRNP2">
+      <data key="d1">36.45997</data>
+      <data key="d2">85</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="ZBTB43">
+      <data key="d1">34.36562</data>
+      <data key="d2">28</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="DNMT3B">
+      <data key="d1">32.39961</data>
+      <data key="d2">411</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="MBD1">
+      <data key="d1">32.25081</data>
+      <data key="d2">364</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="ZNF513">
+      <data key="d1">30.39581</data>
+      <data key="d2">69</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="GTF2F1">
+      <data key="d1">30.39287</data>
+      <data key="d2">280</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="ZNF629">
+      <data key="d1">30.29042</data>
+      <data key="d2">156</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="HMGA1">
+      <data key="d1">29.74086</data>
+      <data key="d2">1222</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="E2F5">
+      <data key="d1">28.95984</data>
+      <data key="d2">666</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="XRCC5">
+      <data key="d1">27.87748</data>
+      <data key="d2">1917</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="ZNF511">
+      <data key="d1">27.29163</data>
+      <data key="d2">13</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="ZSCAN29">
+      <data key="d1">26.53277</data>
+      <data key="d2">146</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="RNF2">
+      <data key="d1">24.38278</data>
+      <data key="d2">1123</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="AGO2">
+      <data key="d1">24.10907</data>
+      <data key="d2">443</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="SOX13">
+      <data key="d1">23.86197</data>
+      <data key="d2">1699</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="TAF15">
+      <data key="d1">22.11395</data>
+      <data key="d2">208</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="ZNF407">
+      <data key="d1">22.02213</data>
+      <data key="d2">476</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="ZNF234">
+      <data key="d1">21.70029</data>
+      <data key="d2">499</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="NONO">
+      <data key="d1">20.08121</data>
+      <data key="d2">156</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="ATF6">
+      <data key="d1">19.63221</data>
+      <data key="d2">146</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="HMG20B">
+      <data key="d1">19.38001</data>
+      <data key="d2">537</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="GRHL1">
+      <data key="d1">19.24803</data>
+      <data key="d2">145</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="PPARG">
+      <data key="d1">18.65965</data>
+      <data key="d2">369</data>
+      <data key="d3">4.38355</data>
+    </edge>
+    <edge source="SRSF1" target="ZNF786">
+      <data key="d1">11.17464</data>
+      <data key="d2">637</data>
+      <data key="d3">2.11048</data>
+    </edge>
+    <edge source="SRSF1" target="PAXIP1">
+      <data key="d1">9.68954</data>
+      <data key="d2">399</data>
+      <data key="d3">1.68295</data>
+    </edge>
+    <edge source="SRSF1" target="CCAR2">
+      <data key="d1">9.49224</data>
+      <data key="d2">38</data>
+      <data key="d3">1.61813</data>
+    </edge>
+    <edge source="ZNF589" target="RBM39">
+      <data key="d1">82.59557</data>
+      <data key="d2">0</data>
+      <data key="d3">3.04571</data>
+    </edge>
+    <edge source="ZNF589" target="FUS">
+      <data key="d1">66.41004</data>
+      <data key="d2">63</data>
+      <data key="d3">2.60888</data>
+    </edge>
+    <edge source="ZNF589" target="EZH2">
+      <data key="d1">65.87166</data>
+      <data key="d2">117</data>
+      <data key="d3">2.62221</data>
+    </edge>
+    <edge source="ZNF589" target="HMGA1">
+      <data key="d1">59.82545</data>
+      <data key="d2">2547</data>
+      <data key="d3">2.55072</data>
+    </edge>
+    <edge source="ZNF589" target="POGK">
+      <data key="d1">59.53291</data>
+      <data key="d2">104</data>
+      <data key="d3">2.4109</data>
+    </edge>
+    <edge source="ZNF589" target="ZNF629">
+      <data key="d1">55.92866</data>
+      <data key="d2">143</data>
+      <data key="d3">2.24112</data>
+    </edge>
+    <edge source="ZNF589" target="ZNF589">
+      <data key="d1">53.75844</data>
+      <data key="d2">131</data>
+      <data key="d3">2.06037</data>
+    </edge>
+    <edge source="ZNF589" target="TAF15">
+      <data key="d1">45.21197</data>
+      <data key="d2">48</data>
+      <data key="d3">1.78659</data>
+    </edge>
+    <edge source="ZNF589" target="PAXIP1">
+      <data key="d1">41.98866</data>
+      <data key="d2">484</data>
+      <data key="d3">1.60042</data>
+    </edge>
+    <edge source="ZNF589" target="PPARG">
+      <data key="d1">40.40963</data>
+      <data key="d2">1297</data>
+      <data key="d3">1.53267</data>
+    </edge>
+    <edge source="ZNF589" target="CCAR2">
+      <data key="d1">37.72222</data>
+      <data key="d2">642</data>
+      <data key="d3">1.35831</data>
+    </edge>
+    <edge source="ZNF589" target="CSRNP2">
+      <data key="d1">37.60373</data>
+      <data key="d2">115</data>
+      <data key="d3">1.34779</data>
+    </edge>
+    <edge source="ZNF589" target="REL">
+      <data key="d1">37.33769</data>
+      <data key="d2">139</data>
+      <data key="d3">1.32232</data>
+    </edge>
+    <edge source="ZNF629" target="ZFAT">
+      <data key="d1">58.58582</data>
+      <data key="d2">21</data>
+      <data key="d3">4.41802</data>
+    </edge>
+    <edge source="ATF6" target="RBM39">
+      <data key="d1">60.97615</data>
+      <data key="d2">56</data>
+      <data key="d3">3.62149</data>
+    </edge>
+    <edge source="ATF6" target="GTF3A">
+      <data key="d1">38.77291</data>
+      <data key="d2">122</data>
+      <data key="d3">3.62149</data>
+    </edge>
+    <edge source="ATF6" target="ZSCAN29">
+      <data key="d1">37.71403</data>
+      <data key="d2">109</data>
+      <data key="d3">3.62149</data>
+    </edge>
+    <edge source="ATF6" target="SRSF1">
+      <data key="d1">36.56254</data>
+      <data key="d2">266</data>
+      <data key="d3">3.62149</data>
+    </edge>
+    <edge source="ATF6" target="ZNF629">
+      <data key="d1">36.09118</data>
+      <data key="d2">68</data>
+      <data key="d3">3.62149</data>
+    </edge>
+    <edge source="ATF6" target="DNMT3B">
+      <data key="d1">32.1462</data>
+      <data key="d2">1098</data>
+      <data key="d3">3.33492</data>
+    </edge>
+    <edge source="ATF6" target="FUS">
+      <data key="d1">31.62783</data>
+      <data key="d2">669</data>
+      <data key="d3">3.36192</data>
+    </edge>
+    <edge source="ATF6" target="ZNF256">
+      <data key="d1">30.13523</data>
+      <data key="d2">124</data>
+      <data key="d3">3.22804</data>
+    </edge>
+    <edge source="ATF6" target="ZNF407">
+      <data key="d1">26.81558</data>
+      <data key="d2">568</data>
+      <data key="d3">3.27911</data>
+    </edge>
+    <edge source="MBD1" target="ZNF786">
+      <data key="d1">61.01572</data>
+      <data key="d2">38</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="ZNF589">
+      <data key="d1">59.46781</data>
+      <data key="d2">8</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="ZNF511">
+      <data key="d1">51.42241</data>
+      <data key="d2">1000</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="FUS">
+      <data key="d1">47.69084</data>
+      <data key="d2">55</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="CCAR2">
+      <data key="d1">45.4867</data>
+      <data key="d2">8</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="ZNF629">
+      <data key="d1">43.34372</data>
+      <data key="d2">24</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="SRSF4">
+      <data key="d1">42.97739</data>
+      <data key="d2">257</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="ZNF850">
+      <data key="d1">37.74466</data>
+      <data key="d2">303</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="MBD1">
+      <data key="d1">37.48323</data>
+      <data key="d2">224</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="ZNF256">
+      <data key="d1">35.53448</data>
+      <data key="d2">52</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="GTF2F1">
+      <data key="d1">35.49985</data>
+      <data key="d2">827</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="SOX13">
+      <data key="d1">35.44078</data>
+      <data key="d2">1594</data>
+      <data key="d3">2.71384</data>
+    </edge>
+    <edge source="MBD1" target="RBM39">
+      <data key="d1">33.32235</data>
+      <data key="d2">259</data>
+      <data key="d3">2.47567</data>
+    </edge>
+    <edge source="MBD1" target="LIN54">
+      <data key="d1">30.59396</data>
+      <data key="d2">124</data>
+      <data key="d3">2.2977</data>
+    </edge>
+    <edge source="MBD1" target="POGK">
+      <data key="d1">30.19677</data>
+      <data key="d2">81</data>
+      <data key="d3">2.26448</data>
+    </edge>
+    <edge source="MBD1" target="ZNF296">
+      <data key="d1">25.56854</data>
+      <data key="d2">41</data>
+      <data key="d3">1.72421</data>
+    </edge>
+    <edge source="MBD1" target="ETV6">
+      <data key="d1">22.48828</data>
+      <data key="d2">665</data>
+      <data key="d3">1.30841</data>
+    </edge>
+    <edge source="SRSF4" target="FUS">
+      <data key="d1">36.48345</data>
+      <data key="d2">76</data>
+      <data key="d3">3.31785</data>
+    </edge>
+    <edge source="SRSF4" target="ZNF513">
+      <data key="d1">33.73355</data>
+      <data key="d2">52</data>
+      <data key="d3">3.31785</data>
+    </edge>
+    <edge source="SRSF4" target="ZNF511">
+      <data key="d1">25.38959</data>
+      <data key="d2">49</data>
+      <data key="d3">3.31785</data>
+    </edge>
+    <edge source="SRSF4" target="SRSF4">
+      <data key="d1">17.64986</data>
+      <data key="d2">206</data>
+      <data key="d3">2.31914</data>
+    </edge>
+    <edge source="ZNF786" target="TAF15">
+      <data key="d1">62.40199</data>
+      <data key="d2">77</data>
+      <data key="d3">2.53326</data>
+    </edge>
+    <edge source="ZNF786" target="RBM39">
+      <data key="d1">58.50146</data>
+      <data key="d2">1856</data>
+      <data key="d3">2.41218</data>
+    </edge>
+    <edge source="ZNF786" target="FUS">
+      <data key="d1">58.17186</data>
+      <data key="d2">199</data>
+      <data key="d3">2.33719</data>
+    </edge>
+    <edge source="ZNF786" target="SRSF1">
+      <data key="d1">58.15196</data>
+      <data key="d2">214</data>
+      <data key="d3">2.33791</data>
+    </edge>
+    <edge source="ZNF786" target="XRCC5">
+      <data key="d1">56.52352</data>
+      <data key="d2">1929</data>
+      <data key="d3">2.11569</data>
+    </edge>
+    <edge source="ZNF786" target="POGK">
+      <data key="d1">52.52802</data>
+      <data key="d2">52</data>
+      <data key="d3">2.04</data>
+    </edge>
+    <edge source="ZNF786" target="ZNF511">
+      <data key="d1">48.90649</data>
+      <data key="d2">466</data>
+      <data key="d3">1.84899</data>
+    </edge>
+    <edge source="ZNF786" target="ZNF786">
+      <data key="d1">47.49997</data>
+      <data key="d2">167</data>
+      <data key="d3">1.76979</data>
+    </edge>
+    <edge source="ZNF786" target="SRSF4">
+      <data key="d1">46.36135</data>
+      <data key="d2">237</data>
+      <data key="d3">1.69702</data>
+    </edge>
+    <edge source="ZNF786" target="ZNF407">
+      <data key="d1">43.63548</data>
+      <data key="d2">731</data>
+      <data key="d3">1.57892</data>
+    </edge>
+    <edge source="ZNF786" target="ZNF513">
+      <data key="d1">43.53802</data>
+      <data key="d2">120</data>
+      <data key="d3">1.57352</data>
+    </edge>
+    <edge source="ZNF786" target="CCAR2">
+      <data key="d1">41.63437</data>
+      <data key="d2">65</data>
+      <data key="d3">1.47149</data>
+    </edge>
+    <edge source="ZNF786" target="SKI">
+      <data key="d1">41.28752</data>
+      <data key="d2">1909</data>
+      <data key="d3">1.44123</data>
+    </edge>
+    <edge source="ZNF786" target="HMGA1">
+      <data key="d1">40.38108</data>
+      <data key="d2">2575</data>
+      <data key="d3">1.40487</data>
+    </edge>
+    <edge source="TAF15" target="ZNF513">
+      <data key="d1">48.01796</data>
+      <data key="d2">56</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="ZNF786">
+      <data key="d1">46.35319</data>
+      <data key="d2">57</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="RBM39">
+      <data key="d1">45.25761</data>
+      <data key="d2">254</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="ZNF589">
+      <data key="d1">45.11976</data>
+      <data key="d2">213</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="XRCC5">
+      <data key="d1">43.88167</data>
+      <data key="d2">1833</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="FUS">
+      <data key="d1">35.48747</data>
+      <data key="d2">258</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="POGK">
+      <data key="d1">34.45415</data>
+      <data key="d2">20</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="TAF15">
+      <data key="d1">32.46943</data>
+      <data key="d2">190</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="REL">
+      <data key="d1">31.81904</data>
+      <data key="d2">139</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="GRHL1">
+      <data key="d1">31.69158</data>
+      <data key="d2">613</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="MBD1">
+      <data key="d1">30.89031</data>
+      <data key="d2">156</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="EZH2">
+      <data key="d1">30.8518</data>
+      <data key="d2">88</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="TP53">
+      <data key="d1">29.53533</data>
+      <data key="d2">866</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="ZNF629">
+      <data key="d1">28.93826</data>
+      <data key="d2">83</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="ZBTB43">
+      <data key="d1">28.84717</data>
+      <data key="d2">73</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="RBM22">
+      <data key="d1">27.99191</data>
+      <data key="d2">314</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="CSRNP2">
+      <data key="d1">27.39999</data>
+      <data key="d2">193</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="ZFAT">
+      <data key="d1">26.94122</data>
+      <data key="d2">86</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="GTF3A">
+      <data key="d1">26.85331</data>
+      <data key="d2">425</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="SOX13">
+      <data key="d1">26.18281</data>
+      <data key="d2">234</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="PAXIP1">
+      <data key="d1">25.27653</data>
+      <data key="d2">505</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="ZNF850">
+      <data key="d1">22.94968</data>
+      <data key="d2">43</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="ZNF256">
+      <data key="d1">22.46884</data>
+      <data key="d2">46</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="ZSCAN29">
+      <data key="d1">22.10496</data>
+      <data key="d2">175</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="HMGA1">
+      <data key="d1">21.77236</data>
+      <data key="d2">223</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="PPARG">
+      <data key="d1">21.57334</data>
+      <data key="d2">297</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="SKI">
+      <data key="d1">21.45668</data>
+      <data key="d2">460</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="LIN54">
+      <data key="d1">21.33205</data>
+      <data key="d2">131</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="SRSF4">
+      <data key="d1">21.16155</data>
+      <data key="d2">288</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="AGO2">
+      <data key="d1">16.72076</data>
+      <data key="d2">521</data>
+      <data key="d3">4.64651</data>
+    </edge>
+    <edge source="TAF15" target="ZNF697">
+      <data key="d1">14.52576</data>
+      <data key="d2">109</data>
+      <data key="d3">3.93099</data>
+    </edge>
+    <edge source="ZNF513" target="FUS">
+      <data key="d1">33.15334</data>
+      <data key="d2">36</data>
+      <data key="d3">1.66481</data>
+    </edge>
+    <edge source="ZNF513" target="RBM39">
+      <data key="d1">33.13712</data>
+      <data key="d2">49</data>
+      <data key="d3">1.66481</data>
+    </edge>
+    <edge source="RNF2" target="SRSF1">
+      <data key="d1">268.29283</data>
+      <data key="d2">180</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="HMGA1">
+      <data key="d1">180.81271</data>
+      <data key="d2">2591</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="GTF3A">
+      <data key="d1">179.2824</data>
+      <data key="d2">109</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="POGK">
+      <data key="d1">150.81576</data>
+      <data key="d2">49</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="MBD1">
+      <data key="d1">139.94594</data>
+      <data key="d2">190</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="FUS">
+      <data key="d1">127.50348</data>
+      <data key="d2">664</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="XRCC5">
+      <data key="d1">87.19094</data>
+      <data key="d2">1840</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="CCAR2">
+      <data key="d1">83.98809</data>
+      <data key="d2">53</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="RBM39">
+      <data key="d1">77.35062</data>
+      <data key="d2">248</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="RNF2">
+      <data key="d1">76.78912</data>
+      <data key="d2">382</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="EZH2">
+      <data key="d1">73.5281</data>
+      <data key="d2">82</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="DNMT3B">
+      <data key="d1">67.30867</data>
+      <data key="d2">194</data>
+      <data key="d3">3.86847</data>
+    </edge>
+    <edge source="RNF2" target="ETV6">
+      <data key="d1">61.86635</data>
+      <data key="d2">686</data>
+      <data key="d3">3.43801</data>
+    </edge>
+    <edge source="RNF2" target="E2F5">
+      <data key="d1">59.69384</data>
+      <data key="d2">844</data>
+      <data key="d3">3.47144</data>
+    </edge>
+    <edge source="RNF2" target="GRHL1">
+      <data key="d1">58.06691</data>
+      <data key="d2">761</data>
+      <data key="d3">3.49688</data>
+    </edge>
+    <edge source="RNF2" target="SOX13">
+      <data key="d1">56.52365</data>
+      <data key="d2">180</data>
+      <data key="d3">3.30003</data>
+    </edge>
+    <edge source="RNF2" target="REL">
+      <data key="d1">55.74973</data>
+      <data key="d2">257</data>
+      <data key="d3">3.3134</data>
+    </edge>
+    <edge source="RNF2" target="ZNF296">
+      <data key="d1">54.5468</data>
+      <data key="d2">132</data>
+      <data key="d3">3.33321</data>
+    </edge>
+    <edge source="RNF2" target="TP53">
+      <data key="d1">53.75302</data>
+      <data key="d2">45</data>
+      <data key="d3">3.34827</data>
+    </edge>
+    <edge source="RNF2" target="LIN54">
+      <data key="d1">47.41876</data>
+      <data key="d2">141</data>
+      <data key="d3">3.46309</data>
+    </edge>
+    <edge source="RNF2" target="ZNF511">
+      <data key="d1">46.15598</data>
+      <data key="d2">85</data>
+      <data key="d3">3.48484</data>
+    </edge>
+    <edge source="RNF2" target="SKI">
+      <data key="d1">45.6996</data>
+      <data key="d2">1957</data>
+      <data key="d3">3.49312</data>
+    </edge>
+    <edge source="RNF2" target="ZNF589">
+      <data key="d1">44.86695</data>
+      <data key="d2">59</data>
+      <data key="d3">3.5095</data>
+    </edge>
+    <edge source="RNF2" target="ATF6">
+      <data key="d1">44.42282</data>
+      <data key="d2">79</data>
+      <data key="d3">3.51828</data>
+    </edge>
+    <edge source="RNF2" target="ZMAT3">
+      <data key="d1">43.97265</data>
+      <data key="d2">461</data>
+      <data key="d3">3.5276</data>
+    </edge>
+    <edge source="RNF2" target="LRRFIP1">
+      <data key="d1">42.9296</data>
+      <data key="d2">441</data>
+      <data key="d3">3.55079</data>
+    </edge>
+    <edge source="RNF2" target="ZNF786">
+      <data key="d1">33.63027</data>
+      <data key="d2">184</data>
+      <data key="d3">3.4209</data>
+    </edge>
+    <edge source="RNF2" target="ZNF407">
+      <data key="d1">28.92565</data>
+      <data key="d2">347</data>
+      <data key="d3">2.87387</data>
+    </edge>
+    <edge source="ZNF256" target="RBM39">
+      <data key="d1">87.45749</data>
+      <data key="d2">82</data>
+      <data key="d3">2.77257</data>
+    </edge>
+    <edge source="ZNF256" target="FUS">
+      <data key="d1">58.00402</data>
+      <data key="d2">53</data>
+      <data key="d3">2.77257</data>
+    </edge>
+    <edge source="ZNF256" target="HMGA1">
+      <data key="d1">57.53636</data>
+      <data key="d2">2578</data>
+      <data key="d3">2.77257</data>
+    </edge>
+    <edge source="ZNF256" target="XRCC5">
+      <data key="d1">49.61363</data>
+      <data key="d2">1826</data>
+      <data key="d3">2.58995</data>
+    </edge>
+    <edge source="ZNF256" target="GTF3A">
+      <data key="d1">49.13069</data>
+      <data key="d2">222</data>
+      <data key="d3">2.60401</data>
+    </edge>
+    <edge source="ZNF256" target="POGK">
+      <data key="d1">47.91126</data>
+      <data key="d2">57</data>
+      <data key="d3">2.64601</data>
+    </edge>
+    <edge source="ZNF256" target="SRSF1">
+      <data key="d1">46.69362</data>
+      <data key="d2">259</data>
+      <data key="d3">2.54211</data>
+    </edge>
+    <edge source="ZNF256" target="REL">
+      <data key="d1">45.21004</data>
+      <data key="d2">91</data>
+      <data key="d3">2.60222</data>
+    </edge>
+    <edge source="ZNF256" target="ZNF629">
+      <data key="d1">35.93984</data>
+      <data key="d2">717</data>
+      <data key="d3">1.88154</data>
+    </edge>
+    <edge source="ZNF256" target="ZNF407">
+      <data key="d1">35.34486</data>
+      <data key="d2">420</data>
+      <data key="d3">1.74937</data>
+    </edge>
+    <edge source="ZNF256" target="GRHL1">
+      <data key="d1">32.1514</data>
+      <data key="d2">169</data>
+      <data key="d3">1.50828</data>
+    </edge>
+    <edge source="E2F5" target="SRSF1">
+      <data key="d1">167.65214</data>
+      <data key="d2">293</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="XRCC5">
+      <data key="d1">100.77702</data>
+      <data key="d2">1780</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="LIN54">
+      <data key="d1">99.02192</data>
+      <data key="d2">90</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="REL">
+      <data key="d1">96.08763</data>
+      <data key="d2">34</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="HMGA1">
+      <data key="d1">91.27018</data>
+      <data key="d2">2591</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="ZNF850">
+      <data key="d1">80.60939</data>
+      <data key="d2">19</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="EZH2">
+      <data key="d1">76.49282</data>
+      <data key="d2">41</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="TP53">
+      <data key="d1">65.86459</data>
+      <data key="d2">817</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="SRSF4">
+      <data key="d1">65.69106</data>
+      <data key="d2">24</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="FUS">
+      <data key="d1">61.80542</data>
+      <data key="d2">624</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="DNMT3B">
+      <data key="d1">61.73134</data>
+      <data key="d2">84</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="RBM39">
+      <data key="d1">60.81677</data>
+      <data key="d2">32</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="ZFAT">
+      <data key="d1">57.63306</data>
+      <data key="d2">608</data>
+      <data key="d3">3.48244</data>
+    </edge>
+    <edge source="E2F5" target="ZNF256">
+      <data key="d1">49.40268</data>
+      <data key="d2">115</data>
+      <data key="d3">3.00675</data>
+    </edge>
+    <edge source="E2F5" target="TAF15">
+      <data key="d1">48.46176</data>
+      <data key="d2">37</data>
+      <data key="d3">3.02572</data>
+    </edge>
+    <edge source="E2F5" target="ZNF589">
+      <data key="d1">45.19328</data>
+      <data key="d2">129</data>
+      <data key="d3">3.08505</data>
+    </edge>
+    <edge source="E2F5" target="CCAR2">
+      <data key="d1">43.65354</data>
+      <data key="d2">20</data>
+      <data key="d3">3.11583</data>
+    </edge>
+    <edge source="E2F5" target="E2F8">
+      <data key="d1">41.98831</data>
+      <data key="d2">552</data>
+      <data key="d3">3.14623</data>
+    </edge>
+    <edge source="E2F5" target="POGK">
+      <data key="d1">40.66495</data>
+      <data key="d2">40</data>
+      <data key="d3">3.17464</data>
+    </edge>
+    <edge source="E2F5" target="SOX13">
+      <data key="d1">37.83873</data>
+      <data key="d2">1634</data>
+      <data key="d3">3.23846</data>
+    </edge>
+    <edge source="E2F5" target="E2F5">
+      <data key="d1">30.82411</data>
+      <data key="d2">708</data>
+      <data key="d3">3.20548</data>
+    </edge>
+    <edge source="E2F5" target="GTF2F1">
+      <data key="d1">30.09268</data>
+      <data key="d2">576</data>
+      <data key="d3">3.23009</data>
+    </edge>
+    <edge source="E2F5" target="RBM22">
+      <data key="d1">28.24146</data>
+      <data key="d2">159</data>
+      <data key="d3">3.29688</data>
+    </edge>
+    <edge source="E2F5" target="ZNF629">
+      <data key="d1">28.05118</data>
+      <data key="d2">7</data>
+      <data key="d3">3.3035</data>
+    </edge>
+    <edge source="E2F5" target="SKI">
+      <data key="d1">27.76613</data>
+      <data key="d2">512</data>
+      <data key="d3">3.31264</data>
+    </edge>
+    <edge source="ZNF639" target="CCAR2">
+      <data key="d1">188.54859</data>
+      <data key="d2">25</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="RBM39">
+      <data key="d1">129.00676</data>
+      <data key="d2">35</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="XRCC5">
+      <data key="d1">96.96481</data>
+      <data key="d2">1902</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="SRSF4">
+      <data key="d1">86.57587</data>
+      <data key="d2">26</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="LIN54">
+      <data key="d1">70.59885</data>
+      <data key="d2">144</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="MBD1">
+      <data key="d1">54.8358</data>
+      <data key="d2">263</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="CSRNP2">
+      <data key="d1">54.0893</data>
+      <data key="d2">13</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="TP53">
+      <data key="d1">50.35397</data>
+      <data key="d2">790</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="ZNF639">
+      <data key="d1">48.40919</data>
+      <data key="d2">89</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="FUS">
+      <data key="d1">47.96251</data>
+      <data key="d2">647</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="SRSF1">
+      <data key="d1">47.45222</data>
+      <data key="d2">266</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="POGK">
+      <data key="d1">46.13161</data>
+      <data key="d2">9</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="ZNF786">
+      <data key="d1">45.10742</data>
+      <data key="d2">1</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="RNF2">
+      <data key="d1">45.03669</data>
+      <data key="d2">394</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="REL">
+      <data key="d1">42.70795</data>
+      <data key="d2">100</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="ATF6">
+      <data key="d1">40.83767</data>
+      <data key="d2">51</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="ZFAT">
+      <data key="d1">40.47205</data>
+      <data key="d2">168</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="EZH2">
+      <data key="d1">36.16151</data>
+      <data key="d2">5</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="ZNF511">
+      <data key="d1">34.18944</data>
+      <data key="d2">5</data>
+      <data key="d3">4.27483</data>
+    </edge>
+    <edge source="ZNF639" target="SKI">
+      <data key="d1">30.70045</data>
+      <data key="d2">632</data>
+      <data key="d3">3.62882</data>
+    </edge>
+    <edge source="ZNF639" target="ZNF513">
+      <data key="d1">30.56735</data>
+      <data key="d2">21</data>
+      <data key="d3">3.63353</data>
+    </edge>
+    <edge source="ZNF639" target="TAF15">
+      <data key="d1">21.15041</data>
+      <data key="d2">175</data>
+      <data key="d3">2.41311</data>
+    </edge>
+    <edge source="ZNF697" target="ZNF786">
+      <data key="d1">487.95529</data>
+      <data key="d2">139</data>
+      <data key="d3">3.53954</data>
+    </edge>
+    <edge source="ZNF697" target="ZNF629">
+      <data key="d1">329.7613</data>
+      <data key="d2">99</data>
+      <data key="d3">3.53954</data>
+    </edge>
+    <edge source="ZNF697" target="RBM39">
+      <data key="d1">109.0746</data>
+      <data key="d2">76</data>
+      <data key="d3">3.53954</data>
+    </edge>
+    <edge source="ZNF697" target="XRCC5">
+      <data key="d1">79.97336</data>
+      <data key="d2">1877</data>
+      <data key="d3">3.53954</data>
+    </edge>
+    <edge source="ZNF697" target="GTF3A">
+      <data key="d1">62.41154</data>
+      <data key="d2">99</data>
+      <data key="d3">3.53954</data>
+    </edge>
+    <edge source="ZNF697" target="SOX13">
+      <data key="d1">44.58145</data>
+      <data key="d2">1647</data>
+      <data key="d3">3.53954</data>
+    </edge>
+    <edge source="ZNF697" target="ZSCAN29">
+      <data key="d1">42.06028</data>
+      <data key="d2">79</data>
+      <data key="d3">3.32654</data>
+    </edge>
+    <edge source="ZNF697" target="CSRNP2">
+      <data key="d1">41.41369</data>
+      <data key="d2">75</data>
+      <data key="d3">3.34616</data>
+    </edge>
+    <edge source="ZNF697" target="LIN54">
+      <data key="d1">40.60758</data>
+      <data key="d2">240</data>
+      <data key="d3">3.11657</data>
+    </edge>
+    <edge source="ZNF697" target="GRHL1">
+      <data key="d1">38.9211</data>
+      <data key="d2">1966</data>
+      <data key="d3">3.01033</data>
+    </edge>
+    <edge source="ZNF697" target="ZNF296">
+      <data key="d1">37.57196</data>
+      <data key="d2">2</data>
+      <data key="d3">2.99096</data>
+    </edge>
+    <edge source="ZNF697" target="ZMAT3">
+      <data key="d1">37.44131</data>
+      <data key="d2">295</data>
+      <data key="d3">2.99508</data>
+    </edge>
+    <edge source="ZNF697" target="CCAR2">
+      <data key="d1">37.43732</data>
+      <data key="d2">76</data>
+      <data key="d3">2.99525</data>
+    </edge>
+    <edge source="ZNF697" target="MBD1">
+      <data key="d1">37.11552</data>
+      <data key="d2">326</data>
+      <data key="d3">2.95211</data>
+    </edge>
+    <edge source="ZNF697" target="REL">
+      <data key="d1">36.83548</data>
+      <data key="d2">92</data>
+      <data key="d3">2.96176</data>
+    </edge>
+    <edge source="ZNF697" target="FUS">
+      <data key="d1">36.53817</data>
+      <data key="d2">480</data>
+      <data key="d3">2.97059</data>
+    </edge>
+    <edge source="ZNF697" target="E2F5">
+      <data key="d1">35.70663</data>
+      <data key="d2">759</data>
+      <data key="d3">2.83043</data>
+    </edge>
+    <edge source="ZNF697" target="SRSF1">
+      <data key="d1">34.90024</data>
+      <data key="d2">2</data>
+      <data key="d3">2.82691</data>
+    </edge>
+    <edge source="ZNF697" target="ZNF589">
+      <data key="d1">33.87037</data>
+      <data key="d2">176</data>
+      <data key="d3">2.74976</data>
+    </edge>
+    <edge source="ZNF697" target="SKI">
+      <data key="d1">30.82848</data>
+      <data key="d2">143</data>
+      <data key="d3">2.43159</data>
+    </edge>
+    <edge source="ZNF697" target="ZNF234">
+      <data key="d1">29.6872</data>
+      <data key="d2">636</data>
+      <data key="d3">2.36736</data>
+    </edge>
+    <edge source="ZNF697" target="POGK">
+      <data key="d1">29.39062</data>
+      <data key="d2">40</data>
+      <data key="d3">2.32398</data>
+    </edge>
+    <edge source="ZNF697" target="MAFK">
+      <data key="d1">26.5764</data>
+      <data key="d2">955</data>
+      <data key="d3">1.98599</data>
+    </edge>
+    <edge source="ZNF697" target="PAXIP1">
+      <data key="d1">25.03324</data>
+      <data key="d2">360</data>
+      <data key="d3">1.82766</data>
+    </edge>
+    <edge source="ZNF697" target="TP53">
+      <data key="d1">23.5662</data>
+      <data key="d2">110</data>
+      <data key="d3">1.65915</data>
+    </edge>
+    <edge source="ZNF697" target="DNMT3B">
+      <data key="d1">22.71031</data>
+      <data key="d2">804</data>
+      <data key="d3">1.56604</data>
+    </edge>
+    <edge source="ZFAT" target="ZFAT">
+      <data key="d1">519.45491</data>
+      <data key="d2">169</data>
+      <data key="d3">2.49276</data>
+    </edge>
+    <edge source="ZFAT" target="DNMT3B">
+      <data key="d1">469.92172</data>
+      <data key="d2">178</data>
+      <data key="d3">2.49276</data>
+    </edge>
+    <edge source="ZFAT" target="HMGA1">
+      <data key="d1">53.89683</data>
+      <data key="d2">2567</data>
+      <data key="d3">1.4813</data>
+    </edge>
+    <edge source="ZFAT" target="ZNF761">
+      <data key="d1">51.54673</data>
+      <data key="d2">7</data>
+      <data key="d3">1.38541</data>
+    </edge>
+    <edge source="AGO2" target="FUS">
+      <data key="d1">342.36652</data>
+      <data key="d2">455</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="RBM39">
+      <data key="d1">279.7901</data>
+      <data key="d2">347</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="ZNF513">
+      <data key="d1">231.80036</data>
+      <data key="d2">63</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="SRSF4">
+      <data key="d1">168.129</data>
+      <data key="d2">285</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="TAF15">
+      <data key="d1">119.99556</data>
+      <data key="d2">196</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="ZFAT">
+      <data key="d1">105.04602</data>
+      <data key="d2">47</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="ZNF629">
+      <data key="d1">93.03958</data>
+      <data key="d2">174</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="CSRNP2">
+      <data key="d1">89.02073</data>
+      <data key="d2">300</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="ZNF407">
+      <data key="d1">77.78391</data>
+      <data key="d2">434</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="ZBTB43">
+      <data key="d1">77.11281</data>
+      <data key="d2">363</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="MBD1">
+      <data key="d1">76.21104</data>
+      <data key="d2">17</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="CCAR2">
+      <data key="d1">73.04646</data>
+      <data key="d2">460</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="EZH2">
+      <data key="d1">59.84865</data>
+      <data key="d2">309</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="SKI">
+      <data key="d1">56.00008</data>
+      <data key="d2">325</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="RBM22">
+      <data key="d1">54.5609</data>
+      <data key="d2">277</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="E2F8">
+      <data key="d1">53.63578</data>
+      <data key="d2">197</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="NONO">
+      <data key="d1">53.5538</data>
+      <data key="d2">14</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="ZNF786">
+      <data key="d1">49.60491</data>
+      <data key="d2">222</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="ZNF296">
+      <data key="d1">46.62127</data>
+      <data key="d2">293</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="GTF3A">
+      <data key="d1">46.38572</data>
+      <data key="d2">355</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="ZNF589">
+      <data key="d1">44.72334</data>
+      <data key="d2">211</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="GRHL1">
+      <data key="d1">42.62632</data>
+      <data key="d2">498</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="REL">
+      <data key="d1">42.61642</data>
+      <data key="d2">199</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="ZNF256">
+      <data key="d1">37.8612</data>
+      <data key="d2">253</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="POGK">
+      <data key="d1">37.26634</data>
+      <data key="d2">94</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="E2F5">
+      <data key="d1">36.1804</data>
+      <data key="d2">193</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="PPARG">
+      <data key="d1">35.41017</data>
+      <data key="d2">243</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="SOX13">
+      <data key="d1">29.79067</data>
+      <data key="d2">221</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="AGO2" target="ZSCAN29">
+      <data key="d1">28.74877</data>
+      <data key="d2">198</data>
+      <data key="d3">5.06593</data>
+    </edge>
+    <edge source="POGK" target="FUS">
+      <data key="d1">96.80359</data>
+      <data key="d2">55</data>
+      <data key="d3">3.93293</data>
+    </edge>
+    <edge source="POGK" target="CCAR2">
+      <data key="d1">94.46055</data>
+      <data key="d2">43</data>
+      <data key="d3">3.93293</data>
+    </edge>
+    <edge source="POGK" target="RBM39">
+      <data key="d1">90.53052</data>
+      <data key="d2">97</data>
+      <data key="d3">3.93293</data>
+    </edge>
+    <edge source="POGK" target="GTF3A">
+      <data key="d1">80.98862</data>
+      <data key="d2">115</data>
+      <data key="d3">3.93293</data>
+    </edge>
+    <edge source="POGK" target="EZH2">
+      <data key="d1">76.61637</data>
+      <data key="d2">189</data>
+      <data key="d3">3.93293</data>
+    </edge>
+    <edge source="POGK" target="REL">
+      <data key="d1">71.67952</data>
+      <data key="d2">111</data>
+      <data key="d3">3.93293</data>
+    </edge>
+    <edge source="POGK" target="SRSF4">
+      <data key="d1">70.06544</data>
+      <data key="d2">73</data>
+      <data key="d3">3.93293</data>
+    </edge>
+    <edge source="POGK" target="SOX13">
+      <data key="d1">67.49327</data>
+      <data key="d2">1560</data>
+      <data key="d3">3.93293</data>
+    </edge>
+    <edge source="POGK" target="ZSCAN29">
+      <data key="d1">66.82359</data>
+      <data key="d2">179</data>
+      <data key="d3">3.93293</data>
+    </edge>
+    <edge source="POGK" target="XRCC5">
+      <data key="d1">66.39806</data>
+      <data key="d2">1914</data>
+      <data key="d3">3.93293</data>
+    </edge>
+    <edge source="POGK" target="ZNF786">
+      <data key="d1">61.59604</data>
+      <data key="d2">154</data>
+      <data key="d3">3.93293</data>
+    </edge>
+    <edge source="POGK" target="ZBTB43">
+      <data key="d1">56.38522</data>
+      <data key="d2">349</data>
+      <data key="d3">3.5224</data>
+    </edge>
+    <edge source="POGK" target="RBM22">
+      <data key="d1">54.40309</data>
+      <data key="d2">236</data>
+      <data key="d3">3.00036</data>
+    </edge>
+    <edge source="POGK" target="POGK">
+      <data key="d1">54.40038</data>
+      <data key="d2">64</data>
+      <data key="d3">3.00051</data>
+    </edge>
+    <edge source="POGK" target="ATF6">
+      <data key="d1">51.80486</data>
+      <data key="d2">50</data>
+      <data key="d3">2.86816</data>
+    </edge>
+    <edge source="POGK" target="CSRNP2">
+      <data key="d1">50.85804</data>
+      <data key="d2">131</data>
+      <data key="d3">2.89016</data>
+    </edge>
+    <edge source="POGK" target="ZNF639">
+      <data key="d1">50.37475</data>
+      <data key="d2">196</data>
+      <data key="d3">2.90114</data>
+    </edge>
+    <edge source="POGK" target="ZNF589">
+      <data key="d1">49.90629</data>
+      <data key="d2">97</data>
+      <data key="d3">2.91191</data>
+    </edge>
+    <edge source="POGK" target="TAF15">
+      <data key="d1">48.72066</data>
+      <data key="d2">59</data>
+      <data key="d3">2.88871</data>
+    </edge>
+    <edge source="POGK" target="LIN54">
+      <data key="d1">48.34367</data>
+      <data key="d2">159</data>
+      <data key="d3">2.81451</data>
+    </edge>
+    <edge source="POGK" target="GRHL1">
+      <data key="d1">46.93786</data>
+      <data key="d2">869</data>
+      <data key="d3">2.69274</data>
+    </edge>
+    <edge source="POGK" target="AGO2">
+      <data key="d1">45.01002</data>
+      <data key="d2">1241</data>
+      <data key="d3">2.4985</data>
+    </edge>
+    <edge source="POGK" target="GTF2F1">
+      <data key="d1">42.09692</data>
+      <data key="d2">275</data>
+      <data key="d3">2.27832</data>
+    </edge>
+    <edge source="POGK" target="MBD1">
+      <data key="d1">41.2535</data>
+      <data key="d2">278</data>
+      <data key="d3">2.21349</data>
+    </edge>
+    <edge source="POGK" target="ZNF511">
+      <data key="d1">39.42812</data>
+      <data key="d2">240</data>
+      <data key="d3">2.04657</data>
+    </edge>
+    <edge source="POGK" target="E2F5">
+      <data key="d1">38.93145</data>
+      <data key="d2">576</data>
+      <data key="d3">2.02835</data>
+    </edge>
+    <edge source="POGK" target="ZFAT">
+      <data key="d1">37.62666</data>
+      <data key="d2">621</data>
+      <data key="d3">1.92484</data>
+    </edge>
+    <edge source="POGK" target="HMGA1">
+      <data key="d1">34.22071</data>
+      <data key="d2">1174</data>
+      <data key="d3">1.63507</data>
+    </edge>
+    <edge source="POGK" target="MAFK">
+      <data key="d1">33.13558</data>
+      <data key="d2">2167</data>
+      <data key="d3">1.55749</data>
+    </edge>
+    <edge source="POGK" target="E2F8">
+      <data key="d1">32.58484</data>
+      <data key="d2">663</data>
+      <data key="d3">1.51245</data>
+    </edge>
+    <edge source="POGK" target="PPARG">
+      <data key="d1">32.52978</data>
+      <data key="d2">1013</data>
+      <data key="d3">1.50715</data>
+    </edge>
+    <edge source="POGK" target="ZNF296">
+      <data key="d1">32.22568</data>
+      <data key="d2">78</data>
+      <data key="d3">1.48269</data>
+    </edge>
+    <edge source="POGK" target="SKI">
+      <data key="d1">32.20455</data>
+      <data key="d2">1769</data>
+      <data key="d3">1.47931</data>
+    </edge>
+    <edge source="POGK" target="ZNF407">
+      <data key="d1">31.62196</data>
+      <data key="d2">824</data>
+      <data key="d3">1.43455</data>
+    </edge>
+    <edge source="ETV6" target="XRCC5">
+      <data key="d1">433.73058</data>
+      <data key="d2">1904</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="LIN54">
+      <data key="d1">159.72107</data>
+      <data key="d2">244</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="RBM39">
+      <data key="d1">92.03138</data>
+      <data key="d2">52</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="FUS">
+      <data key="d1">59.25976</data>
+      <data key="d2">645</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="TAF15">
+      <data key="d1">57.10268</data>
+      <data key="d2">23</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="CCAR2">
+      <data key="d1">53.78907</data>
+      <data key="d2">8</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="ZNF589">
+      <data key="d1">53.51036</data>
+      <data key="d2">111</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="HMGA1">
+      <data key="d1">51.89856</data>
+      <data key="d2">2569</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="ZNF629">
+      <data key="d1">49.3387</data>
+      <data key="d2">13</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="SRSF1">
+      <data key="d1">48.44441</data>
+      <data key="d2">33</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="CSRNP2">
+      <data key="d1">44.53022</data>
+      <data key="d2">58</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="GTF3A">
+      <data key="d1">42.5909</data>
+      <data key="d2">82</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="POGK">
+      <data key="d1">40.45247</data>
+      <data key="d2">21</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="ZNF786">
+      <data key="d1">39.14202</data>
+      <data key="d2">134</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="RBM22">
+      <data key="d1">35.90188</data>
+      <data key="d2">200</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="ZNF639">
+      <data key="d1">35.30597</data>
+      <data key="d2">641</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="E2F5">
+      <data key="d1">34.73332</data>
+      <data key="d2">749</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="SRSF4">
+      <data key="d1">30.77444</data>
+      <data key="d2">267</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="ETV6" target="ETV6">
+      <data key="d1">30.46422</data>
+      <data key="d2">490</data>
+      <data key="d3">4.28791</data>
+    </edge>
+    <edge source="XRCC5" target="RBM39">
+      <data key="d1">141.94985</data>
+      <data key="d2">108</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="CCAR2">
+      <data key="d1">101.2618</data>
+      <data key="d2">36</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ZNF589">
+      <data key="d1">87.51324</data>
+      <data key="d2">78</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ATF6">
+      <data key="d1">77.86248</data>
+      <data key="d2">69</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ZNF511">
+      <data key="d1">77.68753</data>
+      <data key="d2">989</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ZNF629">
+      <data key="d1">76.51838</data>
+      <data key="d2">58</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="SRSF4">
+      <data key="d1">64.23764</data>
+      <data key="d2">56</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ZNF256">
+      <data key="d1">62.41879</data>
+      <data key="d2">127</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="TAF15">
+      <data key="d1">58.30924</data>
+      <data key="d2">69</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ZNF786">
+      <data key="d1">57.99348</data>
+      <data key="d2">23</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="LIN54">
+      <data key="d1">56.80562</data>
+      <data key="d2">159</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="TP53">
+      <data key="d1">54.77976</data>
+      <data key="d2">703</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="SRSF1">
+      <data key="d1">52.75171</data>
+      <data key="d2">39</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ZNF761">
+      <data key="d1">52.51235</data>
+      <data key="d2">218</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ZSCAN29">
+      <data key="d1">51.38545</data>
+      <data key="d2">429</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ZNF639">
+      <data key="d1">48.12086</data>
+      <data key="d2">12</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="POGK">
+      <data key="d1">46.36621</data>
+      <data key="d2">50</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ZFAT">
+      <data key="d1">45.16876</data>
+      <data key="d2">500</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="MBD1">
+      <data key="d1">41.48317</data>
+      <data key="d2">220</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ZNF407">
+      <data key="d1">40.76851</data>
+      <data key="d2">719</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="EZH2">
+      <data key="d1">40.5847</data>
+      <data key="d2">261</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="ZNF234">
+      <data key="d1">40.12273</data>
+      <data key="d2">168</data>
+      <data key="d3">3.86488</data>
+    </edge>
+    <edge source="XRCC5" target="E2F5">
+      <data key="d1">38.10352</data>
+      <data key="d2">737</data>
+      <data key="d3">3.73415</data>
+    </edge>
+    <edge source="XRCC5" target="HMG20B">
+      <data key="d1">38.07363</data>
+      <data key="d2">27</data>
+      <data key="d3">3.7349</data>
+    </edge>
+    <edge source="XRCC5" target="HMGA1">
+      <data key="d1">37.92935</data>
+      <data key="d2">1306</data>
+      <data key="d3">3.73841</data>
+    </edge>
+    <edge source="XRCC5" target="XRCC5">
+      <data key="d1">33.53664</data>
+      <data key="d2">556</data>
+      <data key="d3">3.84994</data>
+    </edge>
+    <edge source="XRCC5" target="SOX13">
+      <data key="d1">32.82858</data>
+      <data key="d2">91</data>
+      <data key="d3">3.75828</data>
+    </edge>
+    <edge source="XRCC5" target="ZMAT3">
+      <data key="d1">32.7279</data>
+      <data key="d2">532</data>
+      <data key="d3">3.76087</data>
+    </edge>
+    <edge source="XRCC5" target="DNMT3B">
+      <data key="d1">32.68532</data>
+      <data key="d2">75</data>
+      <data key="d3">3.76197</data>
+    </edge>
+    <edge source="XRCC5" target="RBM22">
+      <data key="d1">32.30923</data>
+      <data key="d2">131</data>
+      <data key="d3">3.77181</data>
+    </edge>
+    <edge source="XRCC5" target="E2F8">
+      <data key="d1">31.68648</data>
+      <data key="d2">754</data>
+      <data key="d3">3.78824</data>
+    </edge>
+    <edge source="XRCC5" target="CSRNP2">
+      <data key="d1">31.42147</data>
+      <data key="d2">61</data>
+      <data key="d3">3.79544</data>
+    </edge>
+    <edge source="XRCC5" target="LRRFIP1">
+      <data key="d1">30.57119</data>
+      <data key="d2">619</data>
+      <data key="d3">3.65772</data>
+    </edge>
+    <edge source="XRCC5" target="FUS">
+      <data key="d1">29.92658</data>
+      <data key="d2">231</data>
+      <data key="d3">3.39049</data>
+    </edge>
+    <edge source="XRCC5" target="ZBTB43">
+      <data key="d1">28.43775</data>
+      <data key="d2">864</data>
+      <data key="d3">3.3105</data>
+    </edge>
+    <edge source="XRCC5" target="GRHL1">
+      <data key="d1">18.61615</data>
+      <data key="d2">388</data>
+      <data key="d3">2.18044</data>
+    </edge>
+    <edge source="GTF3A" target="RBM39">
+      <data key="d1">66.16601</data>
+      <data key="d2">136</data>
+      <data key="d3">3.07078</data>
+    </edge>
+    <edge source="GTF3A" target="SRSF1">
+      <data key="d1">58.44391</data>
+      <data key="d2">56</data>
+      <data key="d3">2.3962</data>
+    </edge>
+    <edge source="GTF3A" target="FUS">
+      <data key="d1">51.81943</data>
+      <data key="d2">54</data>
+      <data key="d3">2.34937</data>
+    </edge>
+    <edge source="GTF3A" target="REL">
+      <data key="d1">50.43588</data>
+      <data key="d2">347</data>
+      <data key="d3">2.22272</data>
+    </edge>
+    <edge source="GTF3A" target="ZNF256">
+      <data key="d1">49.6562</data>
+      <data key="d2">6</data>
+      <data key="d3">2.16675</data>
+    </edge>
+    <edge source="GTF3A" target="SOX13">
+      <data key="d1">43.86328</data>
+      <data key="d2">628</data>
+      <data key="d3">1.92095</data>
+    </edge>
+    <edge source="GTF3A" target="GRHL1">
+      <data key="d1">42.32372</data>
+      <data key="d2">797</data>
+      <data key="d3">1.82358</data>
+    </edge>
+    <edge source="GTF3A" target="ZNF589">
+      <data key="d1">41.85497</data>
+      <data key="d2">35</data>
+      <data key="d3">1.7177</data>
+    </edge>
+    <edge source="GTF3A" target="SRSF4">
+      <data key="d1">41.49603</data>
+      <data key="d2">26</data>
+      <data key="d3">1.7095</data>
+    </edge>
+    <edge source="GTF3A" target="ZNF639">
+      <data key="d1">36.99509</data>
+      <data key="d2">184</data>
+      <data key="d3">1.36121</data>
+    </edge>
+    <edge source="ZNF546" target="HMGA1">
+      <data key="d1">126.28662</data>
+      <data key="d2">2591</data>
+      <data key="d3">3.33905</data>
+    </edge>
+    <edge source="ZNF546" target="RBM39">
+      <data key="d1">105.3405</data>
+      <data key="d2">31</data>
+      <data key="d3">3.33905</data>
+    </edge>
+    <edge source="ZNF546" target="FUS">
+      <data key="d1">103.87843</data>
+      <data key="d2">67</data>
+      <data key="d3">3.33905</data>
+    </edge>
+    <edge source="ZNF546" target="GTF3A">
+      <data key="d1">99.1712</data>
+      <data key="d2">96</data>
+      <data key="d3">3.33905</data>
+    </edge>
+    <edge source="ZNF546" target="XRCC5">
+      <data key="d1">77.09373</data>
+      <data key="d2">1951</data>
+      <data key="d3">3.33905</data>
+    </edge>
+    <edge source="ZNF546" target="CSRNP2">
+      <data key="d1">72.33402</data>
+      <data key="d2">309</data>
+      <data key="d3">3.33905</data>
+    </edge>
+    <edge source="ZNF546" target="TAF15">
+      <data key="d1">62.9949</data>
+      <data key="d2">68</data>
+      <data key="d3">3.33905</data>
+    </edge>
+    <edge source="ZNF546" target="DNMT3B">
+      <data key="d1">57.0219</data>
+      <data key="d2">65</data>
+      <data key="d3">3.33905</data>
+    </edge>
+    <edge source="ZNF546" target="ZSCAN29">
+      <data key="d1">53.5054</data>
+      <data key="d2">79</data>
+      <data key="d3">3.33905</data>
+    </edge>
+    <edge source="ZNF546" target="RNF2">
+      <data key="d1">53.21865</data>
+      <data key="d2">381</data>
+      <data key="d3">3.33905</data>
+    </edge>
+    <edge source="ZNF546" target="SRSF4">
+      <data key="d1">50.4253</data>
+      <data key="d2">180</data>
+      <data key="d3">3.33905</data>
+    </edge>
+    <edge source="ZNF546" target="ZFAT">
+      <data key="d1">47.05652</data>
+      <data key="d2">14</data>
+      <data key="d3">3.14805</data>
+    </edge>
+    <edge source="ZNF546" target="E2F5">
+      <data key="d1">44.12793</data>
+      <data key="d2">774</data>
+      <data key="d3">3.09257</data>
+    </edge>
+    <edge source="ZNF546" target="ZNF296">
+      <data key="d1">43.91902</data>
+      <data key="d2">43</data>
+      <data key="d3">3.09993</data>
+    </edge>
+    <edge source="ZNF546" target="ZNF697">
+      <data key="d1">43.78861</data>
+      <data key="d2">13</data>
+      <data key="d3">3.10502</data>
+    </edge>
+    <edge source="ZNF546" target="POGK">
+      <data key="d1">42.08972</data>
+      <data key="d2">26</data>
+      <data key="d3">3.05466</data>
+    </edge>
+    <edge source="ZNF546" target="ZNF850">
+      <data key="d1">41.78773</data>
+      <data key="d2">53</data>
+      <data key="d3">3.06433</data>
+    </edge>
+    <edge source="ZNF546" target="CCAR2">
+      <data key="d1">41.71787</data>
+      <data key="d2">32</data>
+      <data key="d3">3.06674</data>
+    </edge>
+    <edge source="ZNF546" target="ZNF629">
+      <data key="d1">39.88137</data>
+      <data key="d2">1427</data>
+      <data key="d3">2.8533</data>
+    </edge>
+    <edge source="ZNF546" target="GRHL1">
+      <data key="d1">35.20076</data>
+      <data key="d2">20</data>
+      <data key="d3">2.31031</data>
+    </edge>
+    <edge source="ZNF546" target="ZNF639">
+      <data key="d1">32.41297</data>
+      <data key="d2">50</data>
+      <data key="d3">2.08429</data>
+    </edge>
+    <edge source="ZNF546" target="SOX13">
+      <data key="d1">31.35819</data>
+      <data key="d2">217</data>
+      <data key="d3">1.95563</data>
+    </edge>
+    <edge source="ZNF546" target="ZNF786">
+      <data key="d1">30.84871</data>
+      <data key="d2">198</data>
+      <data key="d3">1.90845</data>
+    </edge>
+    <edge source="ZNF546" target="SRSF1">
+      <data key="d1">28.39764</data>
+      <data key="d2">284</data>
+      <data key="d3">1.64119</data>
+    </edge>
+    <edge source="DNMT3B" target="ZNF629">
+      <data key="d1">51.92998</data>
+      <data key="d2">35</data>
+      <data key="d3">3.34143</data>
+    </edge>
+    <edge source="DNMT3B" target="ATF6">
+      <data key="d1">41.50978</data>
+      <data key="d2">131</data>
+      <data key="d3">3.09284</data>
+    </edge>
+    <edge source="DNMT3B" target="CSRNP2">
+      <data key="d1">35.90608</data>
+      <data key="d2">50</data>
+      <data key="d3">2.54842</data>
+    </edge>
+    <edge source="DNMT3B" target="FUS">
+      <data key="d1">33.7502</data>
+      <data key="d2">79</data>
+      <data key="d3">2.41946</data>
+    </edge>
+    <edge source="DNMT3B" target="POGK">
+      <data key="d1">33.31076</data>
+      <data key="d2">115</data>
+      <data key="d3">2.36611</data>
+    </edge>
+    <edge source="DNMT3B" target="RBM39">
+      <data key="d1">32.33048</data>
+      <data key="d2">1474</data>
+      <data key="d3">2.29731</data>
+    </edge>
+    <edge source="DNMT3B" target="XRCC5">
+      <data key="d1">32.0719</data>
+      <data key="d2">1702</data>
+      <data key="d3">2.28079</data>
+    </edge>
+    <edge source="DNMT3B" target="E2F5">
+      <data key="d1">30.98429</data>
+      <data key="d2">790</data>
+      <data key="d3">2.11734</data>
+    </edge>
+    <edge source="DNMT3B" target="SOX13">
+      <data key="d1">29.79702</data>
+      <data key="d2">80</data>
+      <data key="d3">1.96274</data>
+    </edge>
+    <edge source="DNMT3B" target="LIN54">
+      <data key="d1">28.74519</data>
+      <data key="d2">312</data>
+      <data key="d3">1.85552</data>
+    </edge>
+    <edge source="DNMT3B" target="DNMT3B">
+      <data key="d1">25.16089</data>
+      <data key="d2">1168</data>
+      <data key="d3">1.42966</data>
+    </edge>
+    <edge source="ZSCAN29" target="ZNF589">
+      <data key="d1">105.29869</data>
+      <data key="d2">85</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="DNMT3B">
+      <data key="d1">79.07094</data>
+      <data key="d2">100</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="XRCC5">
+      <data key="d1">66.98813</data>
+      <data key="d2">1889</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="ZNF786">
+      <data key="d1">63.01342</data>
+      <data key="d2">87</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="E2F5">
+      <data key="d1">61.6265</data>
+      <data key="d2">713</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="PAXIP1">
+      <data key="d1">57.73117</data>
+      <data key="d2">569</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="SRSF1">
+      <data key="d1">54.77396</data>
+      <data key="d2">197</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="REL">
+      <data key="d1">51.47948</data>
+      <data key="d2">321</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="SRSF4">
+      <data key="d1">50.98528</data>
+      <data key="d2">69</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="AGO2">
+      <data key="d1">48.02005</data>
+      <data key="d2">546</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="FUS">
+      <data key="d1">47.88334</data>
+      <data key="d2">55</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="ZSCAN29">
+      <data key="d1">46.04053</data>
+      <data key="d2">316</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="RBM39">
+      <data key="d1">45.94389</data>
+      <data key="d2">101</data>
+      <data key="d3">3.62555</data>
+    </edge>
+    <edge source="ZSCAN29" target="MBD1">
+      <data key="d1">45.05968</data>
+      <data key="d2">250</data>
+      <data key="d3">3.41427</data>
+    </edge>
+    <edge source="ZSCAN29" target="HMGA1">
+      <data key="d1">44.86336</data>
+      <data key="d2">1575</data>
+      <data key="d3">3.16557</data>
+    </edge>
+    <edge source="ZSCAN29" target="LIN54">
+      <data key="d1">44.80368</data>
+      <data key="d2">179</data>
+      <data key="d3">3.16788</data>
+    </edge>
+    <edge source="ZSCAN29" target="SOX13">
+      <data key="d1">43.49044</data>
+      <data key="d2">80</data>
+      <data key="d3">2.93137</data>
+    </edge>
+    <edge source="ZSCAN29" target="ATF6">
+      <data key="d1">42.88656</data>
+      <data key="d2">144</data>
+      <data key="d3">2.95091</data>
+    </edge>
+    <edge source="ZSCAN29" target="PPARG">
+      <data key="d1">37.64318</data>
+      <data key="d2">1201</data>
+      <data key="d3">2.34587</data>
+    </edge>
+    <edge source="ZSCAN29" target="RNF2">
+      <data key="d1">32.41369</data>
+      <data key="d2">1247</data>
+      <data key="d3">1.851</data>
+    </edge>
+    <edge source="ZSCAN29" target="ZNF234">
+      <data key="d1">27.66815</data>
+      <data key="d2">109</data>
+      <data key="d3">1.3138</data>
+    </edge>
+    <edge source="ZNF296" target="ZNF629">
+      <data key="d1">68.87357</data>
+      <data key="d2">58</data>
+      <data key="d3">2.35984</data>
+    </edge>
+    <edge source="ZNF296" target="RBM39">
+      <data key="d1">67.70596</data>
+      <data key="d2">255</data>
+      <data key="d3">2.24091</data>
+    </edge>
+    <edge source="ZNF296" target="FUS">
+      <data key="d1">64.77219</data>
+      <data key="d2">759</data>
+      <data key="d3">2.10628</data>
+    </edge>
+    <edge source="ZNF296" target="MAFK">
+      <data key="d1">62.48879</data>
+      <data key="d2">953</data>
+      <data key="d3">1.97611</data>
+    </edge>
+    <edge source="ZNF296" target="DNMT3B">
+      <data key="d1">60.36502</data>
+      <data key="d2">1060</data>
+      <data key="d3">1.90662</data>
+    </edge>
+    <edge source="ZNF296" target="ZNF786">
+      <data key="d1">54.46459</data>
+      <data key="d2">244</data>
+      <data key="d3">1.79288</data>
+    </edge>
+    <edge source="ZNF296" target="E2F5">
+      <data key="d1">45.82423</data>
+      <data key="d2">688</data>
+      <data key="d3">1.4867</data>
+    </edge>
+    <edge source="ZNF296" target="LRRFIP1">
+      <data key="d1">43.74226</data>
+      <data key="d2">597</data>
+      <data key="d3">1.43638</data>
+    </edge>
+    <edge source="ZNF296" target="CSRNP2">
+      <data key="d1">43.24255</data>
+      <data key="d2">371</data>
+      <data key="d3">1.4325</data>
+    </edge>
+    <edge source="ZNF850" target="RBM39">
+      <data key="d1">61.56204</data>
+      <data key="d2">346</data>
+      <data key="d3">1.48304</data>
+    </edge>
+    <edge source="TP53" target="ZMAT3">
+      <data key="d1">163.33735</data>
+      <data key="d2">2112</data>
+      <data key="d3">2.67117</data>
+    </edge>
+    <edge source="TP53" target="RBM39">
+      <data key="d1">80.79122</data>
+      <data key="d2">35</data>
+      <data key="d3">2.13925</data>
+    </edge>
+    <edge source="TP53" target="XRCC5">
+      <data key="d1">48.57085</data>
+      <data key="d2">1878</data>
+      <data key="d3">2.09102</data>
+    </edge>
+    <edge source="TP53" target="REL">
+      <data key="d1">45.87965</data>
+      <data key="d2">224</data>
+      <data key="d3">2.17837</data>
+    </edge>
+    <edge source="TP53" target="ZNF589">
+      <data key="d1">45.10332</data>
+      <data key="d2">82</data>
+      <data key="d3">2.16023</data>
+    </edge>
+    <edge source="TP53" target="MBD1">
+      <data key="d1">37.62813</data>
+      <data key="d2">310</data>
+      <data key="d3">1.60274</data>
+    </edge>
+    <edge source="TP53" target="ZNF639">
+      <data key="d1">37.03923</data>
+      <data key="d2">186</data>
+      <data key="d3">1.56276</data>
+    </edge>
+    <edge source="TP53" target="LIN54">
+      <data key="d1">36.09079</data>
+      <data key="d2">244</data>
+      <data key="d3">1.50495</data>
+    </edge>
+    <edge source="TP53" target="TAF15">
+      <data key="d1">35.67053</data>
+      <data key="d2">190</data>
+      <data key="d3">1.46985</data>
+    </edge>
+    <edge source="ZMAT3" target="GTF3A">
+      <data key="d1">108.31023</data>
+      <data key="d2">109</data>
+      <data key="d3">3.08743</data>
+    </edge>
+    <edge source="ZMAT3" target="FUS">
+      <data key="d1">105.1284</data>
+      <data key="d2">85</data>
+      <data key="d3">3.08743</data>
+    </edge>
+    <edge source="ZMAT3" target="HMGA1">
+      <data key="d1">92.35519</data>
+      <data key="d2">2545</data>
+      <data key="d3">3.08743</data>
+    </edge>
+    <edge source="ZMAT3" target="ZNF786">
+      <data key="d1">87.05628</data>
+      <data key="d2">86</data>
+      <data key="d3">2.65737</data>
+    </edge>
+    <edge source="ZMAT3" target="XRCC5">
+      <data key="d1">80.37678</data>
+      <data key="d2">1937</data>
+      <data key="d3">2.57449</data>
+    </edge>
+    <edge source="ZMAT3" target="RBM39">
+      <data key="d1">79.64135</data>
+      <data key="d2">64</data>
+      <data key="d3">2.59483</data>
+    </edge>
+    <edge source="ZMAT3" target="RBM22">
+      <data key="d1">66.67523</data>
+      <data key="d2">269</data>
+      <data key="d3">2.75293</data>
+    </edge>
+    <edge source="ZMAT3" target="MBD1">
+      <data key="d1">66.0053</data>
+      <data key="d2">173</data>
+      <data key="d3">2.76609</data>
+    </edge>
+    <edge source="ZMAT3" target="ZMAT3">
+      <data key="d1">62.8557</data>
+      <data key="d2">590</data>
+      <data key="d3">2.84889</data>
+    </edge>
+    <edge source="ZMAT3" target="SRSF4">
+      <data key="d1">62.64582</data>
+      <data key="d2">237</data>
+      <data key="d3">2.85292</data>
+    </edge>
+    <edge source="ZMAT3" target="ZNF256">
+      <data key="d1">56.73366</data>
+      <data key="d2">63</data>
+      <data key="d3">3.00019</data>
+    </edge>
+    <edge source="ZMAT3" target="SOX13">
+      <data key="d1">55.05847</data>
+      <data key="d2">180</data>
+      <data key="d3">3.03873</data>
+    </edge>
+    <edge source="ZMAT3" target="CCAR2">
+      <data key="d1">54.21054</data>
+      <data key="d2">4</data>
+      <data key="d3">3.06032</data>
+    </edge>
+    <edge source="ZMAT3" target="SRSF1">
+      <data key="d1">53.10227</data>
+      <data key="d2">152</data>
+      <data key="d3">2.97808</data>
+    </edge>
+    <edge source="ZMAT3" target="ZSCAN29">
+      <data key="d1">52.17045</data>
+      <data key="d2">324</data>
+      <data key="d3">2.91722</data>
+    </edge>
+    <edge source="ZMAT3" target="E2F5">
+      <data key="d1">48.33057</data>
+      <data key="d2">713</data>
+      <data key="d3">2.94109</data>
+    </edge>
+    <edge source="ZMAT3" target="ZNF407">
+      <data key="d1">48.06889</data>
+      <data key="d2">455</data>
+      <data key="d3">2.94785</data>
+    </edge>
+    <edge source="ZMAT3" target="POGK">
+      <data key="d1">45.98613</data>
+      <data key="d2">13</data>
+      <data key="d3">3.00686</data>
+    </edge>
+    <edge source="ZMAT3" target="REL">
+      <data key="d1">44.13969</data>
+      <data key="d2">112</data>
+      <data key="d3">2.77766</data>
+    </edge>
+    <edge source="ZMAT3" target="ZBTB43">
+      <data key="d1">44.03249</data>
+      <data key="d2">46</data>
+      <data key="d3">2.78095</data>
+    </edge>
+    <edge source="ZMAT3" target="PAXIP1">
+      <data key="d1">43.82188</data>
+      <data key="d2">565</data>
+      <data key="d3">2.75296</data>
+    </edge>
+    <edge source="ZMAT3" target="ZNF639">
+      <data key="d1">40.81016</data>
+      <data key="d2">56</data>
+      <data key="d3">2.67458</data>
+    </edge>
+    <edge source="ZMAT3" target="CSRNP2">
+      <data key="d1">40.53138</data>
+      <data key="d2">108</data>
+      <data key="d3">2.61939</data>
+    </edge>
+    <edge source="ZMAT3" target="TAF15">
+      <data key="d1">39.83446</data>
+      <data key="d2">116</data>
+      <data key="d3">2.56743</data>
+    </edge>
+    <edge source="ZMAT3" target="ZNF511">
+      <data key="d1">37.48082</data>
+      <data key="d2">617</data>
+      <data key="d3">2.30446</data>
+    </edge>
+    <edge source="ZMAT3" target="MAFK">
+      <data key="d1">36.40715</data>
+      <data key="d2">2078</data>
+      <data key="d3">2.17622</data>
+    </edge>
+    <edge source="ZMAT3" target="AGO2">
+      <data key="d1">36.36687</data>
+      <data key="d2">1321</data>
+      <data key="d3">2.17728</data>
+    </edge>
+    <edge source="ZMAT3" target="PPARG">
+      <data key="d1">34.33844</data>
+      <data key="d2">140</data>
+      <data key="d3">1.96064</data>
+    </edge>
+    <edge source="ZMAT3" target="DNMT3B">
+      <data key="d1">32.55709</data>
+      <data key="d2">339</data>
+      <data key="d3">1.75536</data>
+    </edge>
+    <edge source="REL" target="SRSF1">
+      <data key="d1">83.13397</data>
+      <data key="d2">93</data>
+      <data key="d3">2.90472</data>
+    </edge>
+    <edge source="REL" target="RBM39">
+      <data key="d1">68.08853</data>
+      <data key="d2">11</data>
+      <data key="d3">2.54777</data>
+    </edge>
+    <edge source="REL" target="GTF3A">
+      <data key="d1">62.7849</data>
+      <data key="d2">68</data>
+      <data key="d3">2.44373</data>
+    </edge>
+    <edge source="REL" target="FUS">
+      <data key="d1">59.27637</data>
+      <data key="d2">79</data>
+      <data key="d3">2.29398</data>
+    </edge>
+    <edge source="REL" target="HMGA1">
+      <data key="d1">58.75647</data>
+      <data key="d2">2549</data>
+      <data key="d3">2.30797</data>
+    </edge>
+    <edge source="REL" target="POGK">
+      <data key="d1">52.05064</data>
+      <data key="d2">84</data>
+      <data key="d3">2.09992</data>
+    </edge>
+    <edge source="REL" target="TAF15">
+      <data key="d1">51.08522</data>
+      <data key="d2">9</data>
+      <data key="d3">2.05845</data>
+    </edge>
+    <edge source="REL" target="ZNF629">
+      <data key="d1">49.4531</data>
+      <data key="d2">27</data>
+      <data key="d3">1.94461</data>
+    </edge>
+    <edge source="REL" target="TP53">
+      <data key="d1">48.72879</data>
+      <data key="d2">6</data>
+      <data key="d3">1.86502</data>
+    </edge>
+    <edge source="REL" target="SOX13">
+      <data key="d1">48.22234</data>
+      <data key="d2">2107</data>
+      <data key="d3">1.80051</data>
+    </edge>
+    <edge source="REL" target="E2F8">
+      <data key="d1">46.94573</data>
+      <data key="d2">502</data>
+      <data key="d3">1.68677</data>
+    </edge>
+    <edge source="REL" target="CCAR2">
+      <data key="d1">43.55656</data>
+      <data key="d2">48</data>
+      <data key="d3">1.42515</data>
+    </edge>
+    <edge source="REL" target="ZSCAN29">
+      <data key="d1">43.05174</data>
+      <data key="d2">40</data>
+      <data key="d3">1.39794</data>
+    </edge>
+    <edge source="REL" target="LIN54">
+      <data key="d1">41.51278</data>
+      <data key="d2">128</data>
+      <data key="d3">1.30728</data>
+    </edge>
+    <edge source="EZH2" target="LRRFIP1">
+      <data key="d1">42.59893</data>
+      <data key="d2">834</data>
+      <data key="d3">3.4284</data>
+    </edge>
+    <edge source="ZBTB43" target="RBM39">
+      <data key="d1">100.9102</data>
+      <data key="d2">79</data>
+      <data key="d3">3.89735</data>
+    </edge>
+    <edge source="ZBTB43" target="XRCC5">
+      <data key="d1">89.66348</data>
+      <data key="d2">1720</data>
+      <data key="d3">3.89735</data>
+    </edge>
+    <edge source="ZBTB43" target="SRSF1">
+      <data key="d1">82.69343</data>
+      <data key="d2">71</data>
+      <data key="d3">3.89735</data>
+    </edge>
+    <edge source="ZBTB43" target="GTF3A">
+      <data key="d1">77.71957</data>
+      <data key="d2">74</data>
+      <data key="d3">3.89735</data>
+    </edge>
+    <edge source="ZBTB43" target="ZNF407">
+      <data key="d1">56.33983</data>
+      <data key="d2">362</data>
+      <data key="d3">3.89735</data>
+    </edge>
+    <edge source="ZBTB43" target="POGK">
+      <data key="d1">54.60615</data>
+      <data key="d2">75</data>
+      <data key="d3">3.89735</data>
+    </edge>
+    <edge source="ZBTB43" target="FUS">
+      <data key="d1">52.32905</data>
+      <data key="d2">62</data>
+      <data key="d3">3.43356</data>
+    </edge>
+    <edge source="ZBTB43" target="SRSF4">
+      <data key="d1">50.74295</data>
+      <data key="d2">432</data>
+      <data key="d3">3.46543</data>
+    </edge>
+    <edge source="ZBTB43" target="ZNF589">
+      <data key="d1">50.60465</data>
+      <data key="d2">176</data>
+      <data key="d3">3.46781</data>
+    </edge>
+    <edge source="ZBTB43" target="E2F5">
+      <data key="d1">50.55987</data>
+      <data key="d2">67</data>
+      <data key="d3">3.46918</data>
+    </edge>
+    <edge source="ZBTB43" target="LIN54">
+      <data key="d1">50.52727</data>
+      <data key="d2">181</data>
+      <data key="d3">3.46997</data>
+    </edge>
+    <edge source="ZBTB43" target="CSRNP2">
+      <data key="d1">50.43601</data>
+      <data key="d2">129</data>
+      <data key="d3">3.47154</data>
+    </edge>
+    <edge source="ZBTB43" target="ZMAT3">
+      <data key="d1">46.62882</data>
+      <data key="d2">427</data>
+      <data key="d3">3.55554</data>
+    </edge>
+    <edge source="ZBTB43" target="REL">
+      <data key="d1">46.11671</data>
+      <data key="d2">89</data>
+      <data key="d3">3.56933</data>
+    </edge>
+    <edge source="ZBTB43" target="SOX13">
+      <data key="d1">43.76977</data>
+      <data key="d2">1673</data>
+      <data key="d3">3.39943</data>
+    </edge>
+    <edge source="ZBTB43" target="SKI">
+      <data key="d1">42.0415</data>
+      <data key="d2">149</data>
+      <data key="d3">2.90915</data>
+    </edge>
+    <edge source="ZBTB43" target="ZNF786">
+      <data key="d1">41.85568</data>
+      <data key="d2">122</data>
+      <data key="d3">2.86498</data>
+    </edge>
+    <edge source="ZBTB43" target="ZNF639">
+      <data key="d1">40.19984</data>
+      <data key="d2">525</data>
+      <data key="d3">2.61669</data>
+    </edge>
+    <edge source="ZBTB43" target="GTF2F1">
+      <data key="d1">39.57584</data>
+      <data key="d2">55</data>
+      <data key="d3">2.58837</data>
+    </edge>
+    <edge source="ZBTB43" target="AGO2">
+      <data key="d1">39.3639</data>
+      <data key="d2">513</data>
+      <data key="d3">2.59434</data>
+    </edge>
+    <edge source="ZBTB43" target="ZNF629">
+      <data key="d1">39.07933</data>
+      <data key="d2">710</data>
+      <data key="d3">2.54304</data>
+    </edge>
+    <edge source="ZBTB43" target="ZNF511">
+      <data key="d1">37.18466</data>
+      <data key="d2">150</data>
+      <data key="d3">2.3657</data>
+    </edge>
+    <edge source="ZBTB43" target="ZNF761">
+      <data key="d1">35.23532</data>
+      <data key="d2">233</data>
+      <data key="d3">2.21269</data>
+    </edge>
+    <edge source="ZBTB43" target="MBD1">
+      <data key="d1">34.60187</data>
+      <data key="d2">294</data>
+      <data key="d3">2.19082</data>
+    </edge>
+    <edge source="ZBTB43" target="ZNF234">
+      <data key="d1">34.4279</data>
+      <data key="d2">419</data>
+      <data key="d3">2.1833</data>
+    </edge>
+    <edge source="ZBTB43" target="TAF15">
+      <data key="d1">34.28718</data>
+      <data key="d2">30</data>
+      <data key="d3">2.18064</data>
+    </edge>
+    <edge source="ZBTB43" target="ZNF296">
+      <data key="d1">34.06777</data>
+      <data key="d2">35</data>
+      <data key="d3">2.16946</data>
+    </edge>
+    <edge source="ZBTB43" target="RBM22">
+      <data key="d1">33.60488</data>
+      <data key="d2">124</data>
+      <data key="d3">2.09971</data>
+    </edge>
+    <edge source="ZBTB43" target="GRHL1">
+      <data key="d1">33.291</data>
+      <data key="d2">814</data>
+      <data key="d3">2.06466</data>
+    </edge>
+    <edge source="ZBTB43" target="TP53">
+      <data key="d1">27.37349</data>
+      <data key="d2">13</data>
+      <data key="d3">1.4511</data>
+    </edge>
+    <edge source="ZBTB43" target="ZNF256">
+      <data key="d1">26.35288</data>
+      <data key="d2">123</data>
+      <data key="d3">1.33325</data>
+    </edge>
+    <edge source="GTF2F1" target="RBM39">
+      <data key="d1">141.56041</data>
+      <data key="d2">8</data>
+      <data key="d3">3.03813</data>
+    </edge>
+    <edge source="GTF2F1" target="FUS">
+      <data key="d1">57.19333</data>
+      <data key="d2">7</data>
+      <data key="d3">3.03813</data>
+    </edge>
+    <edge source="GTF2F1" target="ZNF629">
+      <data key="d1">34.61455</data>
+      <data key="d2">17</data>
+      <data key="d3">3.03813</data>
+    </edge>
+    <edge source="GTF2F1" target="LIN54">
+      <data key="d1">28.61439</data>
+      <data key="d2">244</data>
+      <data key="d3">3.03813</data>
+    </edge>
+    <edge source="GTF2F1" target="TP53">
+      <data key="d1">27.25536</data>
+      <data key="d2">16</data>
+      <data key="d3">3.03813</data>
+    </edge>
+    <edge source="GTF2F1" target="ATF6">
+      <data key="d1">24.56809</data>
+      <data key="d2">82</data>
+      <data key="d3">3.03813</data>
+    </edge>
+    <edge source="GTF2F1" target="CSRNP2">
+      <data key="d1">24.5634</data>
+      <data key="d2">64</data>
+      <data key="d3">3.03813</data>
+    </edge>
+    <edge source="GTF2F1" target="SRSF1">
+      <data key="d1">23.46641</data>
+      <data key="d2">223</data>
+      <data key="d3">3.03813</data>
+    </edge>
+    <edge source="GTF2F1" target="DNMT3B">
+      <data key="d1">20.23572</data>
+      <data key="d2">496</data>
+      <data key="d3">3.03813</data>
+    </edge>
+    <edge source="E2F8" target="SRSF1">
+      <data key="d1">235.9897</data>
+      <data key="d2">203</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="XRCC5">
+      <data key="d1">230.05585</data>
+      <data key="d2">1734</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="RBM39">
+      <data key="d1">172.97114</data>
+      <data key="d2">146</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="E2F8">
+      <data key="d1">159.91776</data>
+      <data key="d2">599</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="EZH2">
+      <data key="d1">157.34276</data>
+      <data key="d2">5</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="REL">
+      <data key="d1">142.1076</data>
+      <data key="d2">51</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="GTF3A">
+      <data key="d1">115.40434</data>
+      <data key="d2">91</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="FUS">
+      <data key="d1">108.05521</data>
+      <data key="d2">164</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="MBD1">
+      <data key="d1">106.44873</data>
+      <data key="d2">281</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="CCAR2">
+      <data key="d1">98.16</data>
+      <data key="d2">7</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="ZNF639">
+      <data key="d1">90.1275</data>
+      <data key="d2">73</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="RNF2">
+      <data key="d1">83.66871</data>
+      <data key="d2">355</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="ZNF407">
+      <data key="d1">77.91285</data>
+      <data key="d2">683</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="POGK">
+      <data key="d1">76.90554</data>
+      <data key="d2">20</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="ZSCAN29">
+      <data key="d1">75.39802</data>
+      <data key="d2">370</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="ZNF256">
+      <data key="d1">72.16575</data>
+      <data key="d2">126</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="ZNF629">
+      <data key="d1">64.35899</data>
+      <data key="d2">90</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="SRSF4">
+      <data key="d1">63.89966</data>
+      <data key="d2">58</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="LIN54">
+      <data key="d1">61.59781</data>
+      <data key="d2">86</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="ATF6">
+      <data key="d1">60.59294</data>
+      <data key="d2">70</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="TAF15">
+      <data key="d1">60.0784</data>
+      <data key="d2">79</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="GTF2F1">
+      <data key="d1">59.1165</data>
+      <data key="d2">137</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="ZNF786">
+      <data key="d1">56.61461</data>
+      <data key="d2">10</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="RBM22">
+      <data key="d1">56.02363</data>
+      <data key="d2">48</data>
+      <data key="d3">4.26171</data>
+    </edge>
+    <edge source="E2F8" target="ZMAT3">
+      <data key="d1">54.41523</data>
+      <data key="d2">564</data>
+      <data key="d3">3.80679</data>
+    </edge>
+    <edge source="E2F8" target="CSRNP2">
+      <data key="d1">50.18574</data>
+      <data key="d2">99</data>
+      <data key="d3">3.40633</data>
+    </edge>
+    <edge source="E2F8" target="ZNF589">
+      <data key="d1">48.61783</data>
+      <data key="d2">43</data>
+      <data key="d3">3.34626</data>
+    </edge>
+    <edge source="E2F8" target="ZFAT">
+      <data key="d1">46.30718</data>
+      <data key="d2">48</data>
+      <data key="d3">3.38886</data>
+    </edge>
+    <edge source="E2F8" target="ZNF850">
+      <data key="d1">46.19056</data>
+      <data key="d2">66</data>
+      <data key="d3">3.31869</data>
+    </edge>
+    <edge source="E2F8" target="PPARG">
+      <data key="d1">45.70067</data>
+      <data key="d2">1480</data>
+      <data key="d3">3.32767</data>
+    </edge>
+    <edge source="E2F8" target="TP53">
+      <data key="d1">44.6005</data>
+      <data key="d2">765</data>
+      <data key="d3">3.141</data>
+    </edge>
+    <edge source="E2F8" target="ZNF511">
+      <data key="d1">42.59583</data>
+      <data key="d2">98</data>
+      <data key="d3">2.75868</data>
+    </edge>
+    <edge source="E2F8" target="ZNF513">
+      <data key="d1">41.91655</data>
+      <data key="d2">164</data>
+      <data key="d3">2.70048</data>
+    </edge>
+    <edge source="E2F8" target="GRHL1">
+      <data key="d1">40.31313</data>
+      <data key="d2">684</data>
+      <data key="d3">2.5666</data>
+    </edge>
+    <edge source="E2F8" target="ZNF296">
+      <data key="d1">38.40307</data>
+      <data key="d2">226</data>
+      <data key="d3">2.40993</data>
+    </edge>
+    <edge source="E2F8" target="AGO2">
+      <data key="d1">36.49631</data>
+      <data key="d2">500</data>
+      <data key="d3">2.24133</data>
+    </edge>
+    <edge source="E2F8" target="E2F5">
+      <data key="d1">36.15197</data>
+      <data key="d2">634</data>
+      <data key="d3">2.21319</data>
+    </edge>
+    <edge source="E2F8" target="SKI">
+      <data key="d1">35.73108</data>
+      <data key="d2">208</data>
+      <data key="d3">2.16878</data>
+    </edge>
+    <edge source="E2F8" target="ETV6">
+      <data key="d1">35.30563</data>
+      <data key="d2">351</data>
+      <data key="d3">2.12454</data>
+    </edge>
+    <edge source="E2F8" target="DNMT3B">
+      <data key="d1">32.8581</data>
+      <data key="d2">5</data>
+      <data key="d3">1.84998</data>
+    </edge>
+    <edge source="E2F8" target="NONO">
+      <data key="d1">31.28314</data>
+      <data key="d2">36</data>
+      <data key="d3">1.68352</data>
+    </edge>
+    <edge source="PPARG" target="RNF2">
+      <data key="d1">71.46205</data>
+      <data key="d2">183</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="SRSF4">
+      <data key="d1">63.02366</data>
+      <data key="d2">14</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="RBM39">
+      <data key="d1">59.60256</data>
+      <data key="d2">14</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="REL">
+      <data key="d1">50.90248</data>
+      <data key="d2">94</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="FUS">
+      <data key="d1">48.22308</data>
+      <data key="d2">11</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="SOX13">
+      <data key="d1">47.34553</data>
+      <data key="d2">124</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="ZNF629">
+      <data key="d1">44.6721</data>
+      <data key="d2">47</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="TP53">
+      <data key="d1">42.62677</data>
+      <data key="d2">683</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="XRCC5">
+      <data key="d1">41.06095</data>
+      <data key="d2">351</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="CSRNP2">
+      <data key="d1">40.82191</data>
+      <data key="d2">83</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="ZNF786">
+      <data key="d1">40.35995</data>
+      <data key="d2">80</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="ZNF513">
+      <data key="d1">39.95512</data>
+      <data key="d2">845</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="ZNF589">
+      <data key="d1">39.01028</data>
+      <data key="d2">81</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="SRSF1">
+      <data key="d1">38.43465</data>
+      <data key="d2">307</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="CCAR2">
+      <data key="d1">38.12289</data>
+      <data key="d2">0</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="POGK">
+      <data key="d1">38.03545</data>
+      <data key="d2">5</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="ZNF296">
+      <data key="d1">36.10341</data>
+      <data key="d2">83</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="ZMAT3">
+      <data key="d1">35.01703</data>
+      <data key="d2">534</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="ZNF256">
+      <data key="d1">34.83252</data>
+      <data key="d2">104</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="ATF6">
+      <data key="d1">34.73892</data>
+      <data key="d2">67</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="LIN54">
+      <data key="d1">34.64853</data>
+      <data key="d2">122</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="ZNF761">
+      <data key="d1">33.71184</data>
+      <data key="d2">175</data>
+      <data key="d3">4.59839</data>
+    </edge>
+    <edge source="PPARG" target="MBD1">
+      <data key="d1">32.44538</data>
+      <data key="d2">263</data>
+      <data key="d3">4.1425</data>
+    </edge>
+    <edge source="PPARG" target="E2F8">
+      <data key="d1">28.36027</data>
+      <data key="d2">632</data>
+      <data key="d3">4.23705</data>
+    </edge>
+    <edge source="PPARG" target="ZSCAN29">
+      <data key="d1">27.28285</data>
+      <data key="d2">337</data>
+      <data key="d3">3.89729</data>
+    </edge>
+    <edge source="PPARG" target="GRHL1">
+      <data key="d1">25.19167</data>
+      <data key="d2">697</data>
+      <data key="d3">3.61968</data>
+    </edge>
+    <edge source="PPARG" target="ZBTB43">
+      <data key="d1">24.8286</data>
+      <data key="d2">39</data>
+      <data key="d3">3.57606</data>
+    </edge>
+    <edge source="SKI" target="SKI">
+      <data key="d1">156.84535</data>
+      <data key="d2">199</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="AGO2">
+      <data key="d1">149.45464</data>
+      <data key="d2">539</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="DNMT3B">
+      <data key="d1">146.15126</data>
+      <data key="d2">181</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="FUS">
+      <data key="d1">136.41737</data>
+      <data key="d2">115</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="ATF6">
+      <data key="d1">134.64947</data>
+      <data key="d2">52</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="LIN54">
+      <data key="d1">117.36911</data>
+      <data key="d2">175</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="GRHL1">
+      <data key="d1">115.58937</data>
+      <data key="d2">103</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="EZH2">
+      <data key="d1">106.93402</data>
+      <data key="d2">92</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="CCAR2">
+      <data key="d1">102.79519</data>
+      <data key="d2">30</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="POGK">
+      <data key="d1">102.57118</data>
+      <data key="d2">43</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="ZNF629">
+      <data key="d1">95.37765</data>
+      <data key="d2">80</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="SOX13">
+      <data key="d1">94.79022</data>
+      <data key="d2">173</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="SRSF4">
+      <data key="d1">91.39245</data>
+      <data key="d2">61</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="PAXIP1">
+      <data key="d1">85.80755</data>
+      <data key="d2">101</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="MAFK">
+      <data key="d1">81.73169</data>
+      <data key="d2">1066</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="CSRNP2">
+      <data key="d1">80.6757</data>
+      <data key="d2">104</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="ZNF786">
+      <data key="d1">75.30235</data>
+      <data key="d2">89</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="TAF15">
+      <data key="d1">69.66964</data>
+      <data key="d2">49</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="ZFAT">
+      <data key="d1">68.06512</data>
+      <data key="d2">605</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="ZBTB43">
+      <data key="d1">67.1539</data>
+      <data key="d2">166</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="ZSCAN29">
+      <data key="d1">60.86324</data>
+      <data key="d2">469</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="ZNF296">
+      <data key="d1">54.97546</data>
+      <data key="d2">70</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="ZMAT3">
+      <data key="d1">54.50742</data>
+      <data key="d2">644</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="ZNF639">
+      <data key="d1">53.10753</data>
+      <data key="d2">48</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="E2F8">
+      <data key="d1">52.91878</data>
+      <data key="d2">623</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="ZNF256">
+      <data key="d1">48.56002</data>
+      <data key="d2">53</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="HMG20B">
+      <data key="d1">46.05775</data>
+      <data key="d2">125</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="ZNF407">
+      <data key="d1">43.50366</data>
+      <data key="d2">694</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="RBM22">
+      <data key="d1">43.23024</data>
+      <data key="d2">87</data>
+      <data key="d3">3.57666</data>
+    </edge>
+    <edge source="SKI" target="LRRFIP1">
+      <data key="d1">32.69758</data>
+      <data key="d2">525</data>
+      <data key="d3">3.41761</data>
+    </edge>
+    <edge source="SKI" target="REL">
+      <data key="d1">31.34026</data>
+      <data key="d2">227</data>
+      <data key="d3">3.31179</data>
+    </edge>
+    <edge source="ZNF407" target="SRSF4">
+      <data key="d1">138.86987</data>
+      <data key="d2">250</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="GTF3A">
+      <data key="d1">125.47533</data>
+      <data key="d2">120</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="ZNF786">
+      <data key="d1">115.87534</data>
+      <data key="d2">173</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="TAF15">
+      <data key="d1">114.16221</data>
+      <data key="d2">109</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="XRCC5">
+      <data key="d1">113.27621</data>
+      <data key="d2">1933</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="POGK">
+      <data key="d1">111.04185</data>
+      <data key="d2">86</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="RBM39">
+      <data key="d1">107.4722</data>
+      <data key="d2">183</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="FUS">
+      <data key="d1">103.35647</data>
+      <data key="d2">132</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="CSRNP2">
+      <data key="d1">99.33525</data>
+      <data key="d2">283</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="HMGA1">
+      <data key="d1">89.8992</data>
+      <data key="d2">2581</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="PAXIP1">
+      <data key="d1">89.89413</data>
+      <data key="d2">501</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="ZNF407">
+      <data key="d1">89.66123</data>
+      <data key="d2">735</data>
+      <data key="d3">3.27837</data>
+    </edge>
+    <edge source="ZNF407" target="ZSCAN29">
+      <data key="d1">84.09401</data>
+      <data key="d2">355</data>
+      <data key="d3">3.14743</data>
+    </edge>
+    <edge source="ZNF407" target="CCAR2">
+      <data key="d1">83.22087</data>
+      <data key="d2">17</data>
+      <data key="d3">3.16227</data>
+    </edge>
+    <edge source="ZNF407" target="SRSF1">
+      <data key="d1">82.34141</data>
+      <data key="d2">82</data>
+      <data key="d3">3.17834</data>
+    </edge>
+    <edge source="ZNF407" target="PPARG">
+      <data key="d1">79.24786</data>
+      <data key="d2">1171</data>
+      <data key="d3">3.09116</data>
+    </edge>
+    <edge source="ZNF407" target="ZNF697">
+      <data key="d1">79.14354</data>
+      <data key="d2">28</data>
+      <data key="d3">3.09307</data>
+    </edge>
+    <edge source="ZNF407" target="ZNF589">
+      <data key="d1">78.51879</data>
+      <data key="d2">128</data>
+      <data key="d3">3.10658</data>
+    </edge>
+    <edge source="ZNF407" target="RBM22">
+      <data key="d1">76.02137</data>
+      <data key="d2">140</data>
+      <data key="d3">3.15737</data>
+    </edge>
+    <edge source="ZNF407" target="ZNF513">
+      <data key="d1">70.12392</data>
+      <data key="d2">130</data>
+      <data key="d3">3.15496</data>
+    </edge>
+    <edge source="ZNF407" target="ZBTB43">
+      <data key="d1">65.21388</data>
+      <data key="d2">104</data>
+      <data key="d3">3.16487</data>
+    </edge>
+    <edge source="ZNF407" target="DNMT3B">
+      <data key="d1">63.85532</data>
+      <data key="d2">1136</data>
+      <data key="d3">3.19148</data>
+    </edge>
+    <edge source="ZNF407" target="RNF2">
+      <data key="d1">63.09926</data>
+      <data key="d2">786</data>
+      <data key="d3">3.20621</data>
+    </edge>
+    <edge source="ZNF407" target="EZH2">
+      <data key="d1">62.52206</data>
+      <data key="d2">3</data>
+      <data key="d3">3.21837</data>
+    </edge>
+    <edge source="ZNF407" target="REL">
+      <data key="d1">62.08701</data>
+      <data key="d2">204</data>
+      <data key="d3">3.22735</data>
+    </edge>
+    <edge source="ZNF407" target="AGO2">
+      <data key="d1">60.96333</data>
+      <data key="d2">1196</data>
+      <data key="d3">3.17594</data>
+    </edge>
+    <edge source="ZNF407" target="ZNF629">
+      <data key="d1">58.85847</data>
+      <data key="d2">253</data>
+      <data key="d3">3.15911</data>
+    </edge>
+    <edge source="ZNF407" target="MBD1">
+      <data key="d1">58.34784</data>
+      <data key="d2">184</data>
+      <data key="d3">3.11628</data>
+    </edge>
+    <edge source="ZNF407" target="ZNF296">
+      <data key="d1">57.63778</data>
+      <data key="d2">5</data>
+      <data key="d3">3.03968</data>
+    </edge>
+    <edge source="ZNF407" target="ZNF511">
+      <data key="d1">55.16626</data>
+      <data key="d2">134</data>
+      <data key="d3">3.01383</data>
+    </edge>
+    <edge source="ZNF407" target="ATF6">
+      <data key="d1">53.49481</data>
+      <data key="d2">92</data>
+      <data key="d3">2.95844</data>
+    </edge>
+    <edge source="ZNF407" target="ZNF850">
+      <data key="d1">52.93148</data>
+      <data key="d2">147</data>
+      <data key="d3">2.91891</data>
+    </edge>
+    <edge source="ZNF407" target="ZNF256">
+      <data key="d1">52.45688</data>
+      <data key="d2">381</data>
+      <data key="d3">2.9294</data>
+    </edge>
+    <edge source="ZNF407" target="E2F5">
+      <data key="d1">49.9838</data>
+      <data key="d2">189</data>
+      <data key="d3">2.73115</data>
+    </edge>
+    <edge source="ZNF407" target="MAFK">
+      <data key="d1">49.31027</data>
+      <data key="d2">964</data>
+      <data key="d3">2.69512</data>
+    </edge>
+    <edge source="ZNF407" target="ZNF639">
+      <data key="d1">42.04603</data>
+      <data key="d2">771</data>
+      <data key="d3">2.34998</data>
+    </edge>
+    <edge source="LRRFIP1" target="RBM39">
+      <data key="d1">42.35406</data>
+      <data key="d2">65</data>
+      <data key="d3">3.2393</data>
+    </edge>
+    <edge source="LRRFIP1" target="FUS">
+      <data key="d1">32.87675</data>
+      <data key="d2">49</data>
+      <data key="d3">3.2393</data>
+    </edge>
+    <edge source="LRRFIP1" target="CCAR2">
+      <data key="d1">31.53175</data>
+      <data key="d2">50</data>
+      <data key="d3">3.2393</data>
+    </edge>
+    <edge source="LRRFIP1" target="REL">
+      <data key="d1">28.679</data>
+      <data key="d2">233</data>
+      <data key="d3">2.61595</data>
+    </edge>
+    <edge source="LRRFIP1" target="ZBTB43">
+      <data key="d1">20.30549</data>
+      <data key="d2">146</data>
+      <data key="d3">2.76619</data>
+    </edge>
+    <edge source="ZCCHC11" target="RBM39">
+      <data key="d1">63.81046</data>
+      <data key="d2">54</data>
+      <data key="d3">4.37392</data>
+    </edge>
+    <edge source="ZCCHC11" target="E2F5">
+      <data key="d1">54.75712</data>
+      <data key="d2">808</data>
+      <data key="d3">4.37392</data>
+    </edge>
+    <edge source="ZCCHC11" target="XRCC5">
+      <data key="d1">49.17207</data>
+      <data key="d2">1696</data>
+      <data key="d3">4.37392</data>
+    </edge>
+    <edge source="ZCCHC11" target="SRSF1">
+      <data key="d1">45.25159</data>
+      <data key="d2">280</data>
+      <data key="d3">4.37392</data>
+    </edge>
+    <edge source="ZCCHC11" target="ZNF589">
+      <data key="d1">36.93831</data>
+      <data key="d2">142</data>
+      <data key="d3">4.37392</data>
+    </edge>
+    <edge source="ZCCHC11" target="GTF2F1">
+      <data key="d1">32.88339</data>
+      <data key="d2">670</data>
+      <data key="d3">4.37392</data>
+    </edge>
+    <edge source="ZCCHC11" target="ZNF629">
+      <data key="d1">32.42575</data>
+      <data key="d2">52</data>
+      <data key="d3">4.37392</data>
+    </edge>
+    <edge source="ZCCHC11" target="LIN54">
+      <data key="d1">30.54839</data>
+      <data key="d2">146</data>
+      <data key="d3">4.37392</data>
+    </edge>
+    <edge source="ZCCHC11" target="CCAR2">
+      <data key="d1">28.85397</data>
+      <data key="d2">69</data>
+      <data key="d3">4.37392</data>
+    </edge>
+    <edge source="ZCCHC11" target="ZNF234">
+      <data key="d1">21.04733</data>
+      <data key="d2">111</data>
+      <data key="d3">2.92839</data>
+    </edge>
+    <edge source="ZNF234" target="RBM39">
+      <data key="d1">65.20746</data>
+      <data key="d2">132</data>
+      <data key="d3">1.58141</data>
+    </edge>
+    <edge source="ZNF234" target="FUS">
+      <data key="d1">62.45382</data>
+      <data key="d2">60</data>
+      <data key="d3">1.68253</data>
+    </edge>
+    <edge source="ZNF234" target="DNMT3B">
+      <data key="d1">61.79316</data>
+      <data key="d2">1091</data>
+      <data key="d3">1.59843</data>
+    </edge>
+    <edge source="ZNF234" target="HMGA1">
+      <data key="d1">56.3147</data>
+      <data key="d2">2595</data>
+      <data key="d3">1.36474</data>
+    </edge>
+    <edge source="PAXIP1" target="RBM39">
+      <data key="d1">173.35691</data>
+      <data key="d2">142</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="SRSF4">
+      <data key="d1">145.55734</data>
+      <data key="d2">169</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="ATF6">
+      <data key="d1">104.47689</data>
+      <data key="d2">4</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="LIN54">
+      <data key="d1">83.31321</data>
+      <data key="d2">169</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="CCAR2">
+      <data key="d1">79.58557</data>
+      <data key="d2">43</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="ISX">
+      <data key="d1">68.1067</data>
+      <data key="d2">200</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="FUS">
+      <data key="d1">67.0844</data>
+      <data key="d2">213</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="ZNF589">
+      <data key="d1">59.80891</data>
+      <data key="d2">57</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="SRSF1">
+      <data key="d1">56.76908</data>
+      <data key="d2">175</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="ZSCAN29">
+      <data key="d1">54.72068</data>
+      <data key="d2">351</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="TAF15">
+      <data key="d1">53.28425</data>
+      <data key="d2">31</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="ZNF786">
+      <data key="d1">52.14584</data>
+      <data key="d2">49</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="HMG20B">
+      <data key="d1">46.65673</data>
+      <data key="d2">105</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="ZNF639">
+      <data key="d1">46.25204</data>
+      <data key="d2">66</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="ZNF761">
+      <data key="d1">45.93885</data>
+      <data key="d2">421</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="POGK">
+      <data key="d1">45.70325</data>
+      <data key="d2">14</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="ZNF256">
+      <data key="d1">44.86237</data>
+      <data key="d2">42</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="ZNF629">
+      <data key="d1">40.66595</data>
+      <data key="d2">63</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="GRHL1">
+      <data key="d1">40.53463</data>
+      <data key="d2">46</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="E2F5">
+      <data key="d1">37.3715</data>
+      <data key="d2">708</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="ETV6">
+      <data key="d1">36.50987</data>
+      <data key="d2">668</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="REL">
+      <data key="d1">36.07153</data>
+      <data key="d2">155</data>
+      <data key="d3">4.93189</data>
+    </edge>
+    <edge source="PAXIP1" target="AGO2">
+      <data key="d1">32.67438</data>
+      <data key="d2">573</data>
+      <data key="d3">4.10466</data>
+    </edge>
+    <edge source="PAXIP1" target="CSRNP2">
+      <data key="d1">31.3762</data>
+      <data key="d2">102</data>
+      <data key="d3">4.12185</data>
+    </edge>
+    <edge source="PAXIP1" target="MAFK">
+      <data key="d1">28.23836</data>
+      <data key="d2">155</data>
+      <data key="d3">3.89976</data>
+    </edge>
+    <edge source="PAXIP1" target="ZNF407">
+      <data key="d1">27.20699</data>
+      <data key="d2">111</data>
+      <data key="d3">3.85278</data>
+    </edge>
+    <edge source="PAXIP1" target="ZNF234">
+      <data key="d1">26.66469</data>
+      <data key="d2">84</data>
+      <data key="d3">3.60588</data>
+    </edge>
+    <edge source="PAXIP1" target="ZFAT">
+      <data key="d1">24.83121</data>
+      <data key="d2">613</data>
+      <data key="d3">3.25453</data>
+    </edge>
+    <edge source="HMG20B" target="RBM39">
+      <data key="d1">61.65283</data>
+      <data key="d2">98</data>
+      <data key="d3">4.36886</data>
+    </edge>
+    <edge source="HMG20B" target="FUS">
+      <data key="d1">41.26122</data>
+      <data key="d2">35</data>
+      <data key="d3">4.36886</data>
+    </edge>
+    <edge source="HMG20B" target="SRSF4">
+      <data key="d1">39.71744</data>
+      <data key="d2">156</data>
+      <data key="d3">4.36886</data>
+    </edge>
+    <edge source="HMG20B" target="ZFAT">
+      <data key="d1">35.68047</data>
+      <data key="d2">1181</data>
+      <data key="d3">4.36886</data>
+    </edge>
+    <edge source="HMG20B" target="POGK">
+      <data key="d1">31.09461</data>
+      <data key="d2">63</data>
+      <data key="d3">4.36886</data>
+    </edge>
+    <edge source="HMG20B" target="ZNF629">
+      <data key="d1">30.29501</data>
+      <data key="d2">1</data>
+      <data key="d3">4.36886</data>
+    </edge>
+    <edge source="HMG20B" target="AGO2">
+      <data key="d1">28.65124</data>
+      <data key="d2">543</data>
+      <data key="d3">4.36886</data>
+    </edge>
+    <edge source="HMG20B" target="CCAR2">
+      <data key="d1">27.30296</data>
+      <data key="d2">15</data>
+      <data key="d3">3.93259</data>
+    </edge>
+    <edge source="HMG20B" target="TAF15">
+      <data key="d1">26.87471</data>
+      <data key="d2">110</data>
+      <data key="d3">3.94755</data>
+    </edge>
+    <edge source="HMG20B" target="SRSF1">
+      <data key="d1">22.32452</data>
+      <data key="d2">305</data>
+      <data key="d3">3.28026</data>
+    </edge>
+    <edge source="NONO" target="RBM39">
+      <data key="d1">154.9789</data>
+      <data key="d2">23</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="CCAR2">
+      <data key="d1">147.78473</data>
+      <data key="d2">9</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="ZSCAN29">
+      <data key="d1">125.97467</data>
+      <data key="d2">154</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="LIN54">
+      <data key="d1">114.00413</data>
+      <data key="d2">133</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="SRSF4">
+      <data key="d1">112.18094</data>
+      <data key="d2">0</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="TAF15">
+      <data key="d1">103.13562</data>
+      <data key="d2">52</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="XRCC5">
+      <data key="d1">91.50213</data>
+      <data key="d2">1910</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="FUS">
+      <data key="d1">91.23382</data>
+      <data key="d2">97</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="MBD1">
+      <data key="d1">90.27794</data>
+      <data key="d2">202</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="ZNF589">
+      <data key="d1">83.46805</data>
+      <data key="d2">132</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="CSRNP2">
+      <data key="d1">76.21778</data>
+      <data key="d2">115</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="ZBTB43">
+      <data key="d1">72.89633</data>
+      <data key="d2">92</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="RBM22">
+      <data key="d1">72.72232</data>
+      <data key="d2">114</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="POGK">
+      <data key="d1">72.11648</data>
+      <data key="d2">63</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="ZNF786">
+      <data key="d1">71.71443</data>
+      <data key="d2">53</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="DNMT3B">
+      <data key="d1">71.3125</data>
+      <data key="d2">103</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="ATF6">
+      <data key="d1">70.14309</data>
+      <data key="d2">94</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="PAXIP1">
+      <data key="d1">70.05121</data>
+      <data key="d2">517</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="ZNF629">
+      <data key="d1">69.44596</data>
+      <data key="d2">17</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="ZNF639">
+      <data key="d1">68.66567</data>
+      <data key="d2">167</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="PPARG">
+      <data key="d1">64.38682</data>
+      <data key="d2">1365</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="REL">
+      <data key="d1">64.32743</data>
+      <data key="d2">93</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="ZNF256">
+      <data key="d1">61.19927</data>
+      <data key="d2">136</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="ETV6">
+      <data key="d1">60.40944</data>
+      <data key="d2">586</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="TP53">
+      <data key="d1">56.85954</data>
+      <data key="d2">28</data>
+      <data key="d3">4.32717</data>
+    </edge>
+    <edge source="NONO" target="ZMAT3">
+      <data key="d1">51.18876</data>
+      <data key="d2">429</data>
+      <data key="d3">3.26806</data>
+    </edge>
+    <edge source="NONO" target="GRHL1">
+      <data key="d1">48.99085</data>
+      <data key="d2">130</data>
+      <data key="d3">3.09573</data>
+    </edge>
+    <edge source="NONO" target="SRSF1">
+      <data key="d1">47.44289</data>
+      <data key="d2">145</data>
+      <data key="d3">2.92573</data>
+    </edge>
+    <edge source="NONO" target="EZH2">
+      <data key="d1">46.81144</data>
+      <data key="d2">10</data>
+      <data key="d3">2.86416</data>
+    </edge>
+    <edge source="NONO" target="ZNF234">
+      <data key="d1">45.71488</data>
+      <data key="d2">536</data>
+      <data key="d3">2.84053</data>
+    </edge>
+    <edge source="NONO" target="ZNF511">
+      <data key="d1">43.97812</data>
+      <data key="d2">19</data>
+      <data key="d3">2.66419</data>
+    </edge>
+    <edge source="NONO" target="ZNF513">
+      <data key="d1">39.94106</data>
+      <data key="d2">26</data>
+      <data key="d3">2.26474</data>
+    </edge>
+    <edge source="NONO" target="ZNF850">
+      <data key="d1">38.83344</data>
+      <data key="d2">148</data>
+      <data key="d3">2.1742</data>
+    </edge>
+    <edge source="NONO" target="E2F8">
+      <data key="d1">37.14317</data>
+      <data key="d2">250</data>
+      <data key="d3">2.01186</data>
+    </edge>
+    <edge source="NONO" target="ZFAT">
+      <data key="d1">31.45544</data>
+      <data key="d2">41</data>
+      <data key="d3">1.51339</data>
+    </edge>
+    <edge source="NONO" target="AGO2">
+      <data key="d1">30.9637</data>
+      <data key="d2">1882</data>
+      <data key="d3">1.47581</data>
+    </edge>
+    <edge source="NONO" target="MAFK">
+      <data key="d1">30.38551</data>
+      <data key="d2">944</data>
+      <data key="d3">1.42962</data>
+    </edge>
+    <edge source="ZNF761" target="RBM39">
+      <data key="d1">91.34612</data>
+      <data key="d2">18</data>
+      <data key="d3">3.95197</data>
+    </edge>
+    <edge source="ZNF761" target="SRSF1">
+      <data key="d1">90.76879</data>
+      <data key="d2">202</data>
+      <data key="d3">3.95197</data>
+    </edge>
+    <edge source="ZNF761" target="SRSF4">
+      <data key="d1">62.96343</data>
+      <data key="d2">20</data>
+      <data key="d3">3.95197</data>
+    </edge>
+    <edge source="ZNF761" target="FUS">
+      <data key="d1">62.83925</data>
+      <data key="d2">53</data>
+      <data key="d3">3.95197</data>
+    </edge>
+    <edge source="ZNF761" target="ZNF256">
+      <data key="d1">55.60062</data>
+      <data key="d2">46</data>
+      <data key="d3">3.95197</data>
+    </edge>
+    <edge source="ZNF761" target="ZNF639">
+      <data key="d1">54.64893</data>
+      <data key="d2">66</data>
+      <data key="d3">3.95197</data>
+    </edge>
+    <edge source="ZNF761" target="ZNF786">
+      <data key="d1">54.42356</data>
+      <data key="d2">196</data>
+      <data key="d3">3.95197</data>
+    </edge>
+    <edge source="ZNF761" target="REL">
+      <data key="d1">52.06141</data>
+      <data key="d2">189</data>
+      <data key="d3">3.95197</data>
+    </edge>
+    <edge source="ZNF761" target="XRCC5">
+      <data key="d1">51.56588</data>
+      <data key="d2">1834</data>
+      <data key="d3">3.95197</data>
+    </edge>
+    <edge source="ZNF761" target="DNMT3B">
+      <data key="d1">45.03659</data>
+      <data key="d2">681</data>
+      <data key="d3">3.08971</data>
+    </edge>
+    <edge source="ZNF761" target="ZNF589">
+      <data key="d1">44.56144</data>
+      <data key="d2">61</data>
+      <data key="d3">3.10612</data>
+    </edge>
+    <edge source="ZNF761" target="MBD1">
+      <data key="d1">39.75033</data>
+      <data key="d2">196</data>
+      <data key="d3">2.78112</data>
+    </edge>
+    <edge source="ZNF761" target="TP53">
+      <data key="d1">38.79645</data>
+      <data key="d2">544</data>
+      <data key="d3">2.62973</data>
+    </edge>
+    <edge source="ZNF761" target="ZNF697">
+      <data key="d1">37.0626</data>
+      <data key="d2">95</data>
+      <data key="d3">2.54151</data>
+    </edge>
+    <edge source="ZNF761" target="ZNF407">
+      <data key="d1">36.73167</data>
+      <data key="d2">477</data>
+      <data key="d3">2.53825</data>
+    </edge>
+    <edge source="ZNF761" target="LIN54">
+      <data key="d1">36.61051</data>
+      <data key="d2">2041</data>
+      <data key="d3">2.52759</data>
+    </edge>
+    <edge source="ZNF761" target="GRHL1">
+      <data key="d1">35.16742</data>
+      <data key="d2">420</data>
+      <data key="d3">2.40176</data>
+    </edge>
+    <edge source="ZNF761" target="SOX13">
+      <data key="d1">34.62038</data>
+      <data key="d2">2028</data>
+      <data key="d3">2.35737</data>
+    </edge>
+    <edge source="ZNF761" target="ZMAT3">
+      <data key="d1">34.38762</data>
+      <data key="d2">639</data>
+      <data key="d3">2.35706</data>
+    </edge>
+    <edge source="ZNF761" target="ATF6">
+      <data key="d1">33.48724</data>
+      <data key="d2">64</data>
+      <data key="d3">2.26754</data>
+    </edge>
+    <edge source="ZNF761" target="PPARG">
+      <data key="d1">33.09442</data>
+      <data key="d2">1184</data>
+      <data key="d3">2.22481</data>
+    </edge>
+    <edge source="ZNF761" target="EZH2">
+      <data key="d1">30.18002</data>
+      <data key="d2">63</data>
+      <data key="d3">1.8878</data>
+    </edge>
+    <edge source="HNRNPH1" target="RBM39">
+      <data key="d1">65.40867</data>
+      <data key="d2">33</data>
+      <data key="d3">3.78554</data>
+    </edge>
+    <edge source="HNRNPH1" target="SRSF1">
+      <data key="d1">49.28152</data>
+      <data key="d2">414</data>
+      <data key="d3">3.78554</data>
+    </edge>
+    <edge source="HNRNPH1" target="MBD1">
+      <data key="d1">46.2277</data>
+      <data key="d2">470</data>
+      <data key="d3">3.78554</data>
+    </edge>
+    <edge source="HNRNPH1" target="ZNF629">
+      <data key="d1">34.78317</data>
+      <data key="d2">85</data>
+      <data key="d3">3.78554</data>
+    </edge>
+    <edge source="HNRNPH1" target="ZNF513">
+      <data key="d1">29.12628</data>
+      <data key="d2">486</data>
+      <data key="d3">3.78554</data>
+    </edge>
+    <edge source="U2AF1" target="FUS">
+      <data key="d1">68.33002</data>
+      <data key="d2">73</data>
+      <data key="d3">3.29257</data>
+    </edge>
+    <edge source="U2AF1" target="ZNF629">
+      <data key="d1">61.63469</data>
+      <data key="d2">57</data>
+      <data key="d3">3.29257</data>
+    </edge>
+    <edge source="U2AF1" target="RBM39">
+      <data key="d1">59.2262</data>
+      <data key="d2">209</data>
+      <data key="d3">3.29257</data>
+    </edge>
+    <edge source="U2AF1" target="TAF15">
+      <data key="d1">46.02051</data>
+      <data key="d2">22</data>
+      <data key="d3">3.29257</data>
+    </edge>
+    <edge source="U2AF1" target="CCAR2">
+      <data key="d1">36.31217</data>
+      <data key="d2">33</data>
+      <data key="d3">3.29257</data>
+    </edge>
+    <edge source="U2AF1" target="RBM22">
+      <data key="d1">35.6206</data>
+      <data key="d2">324</data>
+      <data key="d3">3.29257</data>
+    </edge>
+    <edge source="U2AF1" target="ZNF513">
+      <data key="d1">33.60393</data>
+      <data key="d2">2587</data>
+      <data key="d3">3.29257</data>
+    </edge>
+    <edge source="U2AF1" target="PAXIP1">
+      <data key="d1">31.13739</data>
+      <data key="d2">563</data>
+      <data key="d3">3.29257</data>
+    </edge>
+    <edge source="U2AF1" target="REL">
+      <data key="d1">28.96083</data>
+      <data key="d2">153</data>
+      <data key="d3">3.29257</data>
+    </edge>
+    <edge source="U2AF1" target="ZNF256">
+      <data key="d1">28.90149</data>
+      <data key="d2">54</data>
+      <data key="d3">3.29257</data>
+    </edge>
+    <edge source="U2AF1" target="ZNF407">
+      <data key="d1">28.30759</data>
+      <data key="d2">448</data>
+      <data key="d3">3.29257</data>
+    </edge>
+    <edge source="U2AF1" target="ZNF511">
+      <data key="d1">21.30233</data>
+      <data key="d2">133</data>
+      <data key="d3">3.0313</data>
+    </edge>
+    <edge source="U2AF1" target="DNMT3B">
+      <data key="d1">20.30956</data>
+      <data key="d2">228</data>
+      <data key="d3">2.87969</data>
+    </edge>
+    <edge source="ISX" target="RBM39">
+      <data key="d1">98.17072</data>
+      <data key="d2">79</data>
+      <data key="d3">2.13672</data>
+    </edge>
+    <edge source="ISX" target="HMGA1">
+      <data key="d1">70.24903</data>
+      <data key="d2">2549</data>
+      <data key="d3">1.60361</data>
+    </edge>
+  </graph>
+</graphml>

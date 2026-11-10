@@ -1,0 +1,9 @@
+# Create venv with 'python -m venv venv'
+# Activate it with 'source venv/bin/activate'
+# Install packages quickly with 'pip install -r requirements.txt'
+# (Use 'pip list' to see what is already installed)
+
+networkx==3.6.1
+pandas==3.0.5 # for nx
+matplotlib==3.11.1 # for tutorial
+scipy==1.18.0 # for nx centrality

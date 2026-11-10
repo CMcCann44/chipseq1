@@ -1,0 +1,28 @@
+# Git ignore file
+# Will ignore data since files are large. To get data see data acquisition scripts
+
+# fastq files
+raw_data/*.fastq
+# hg and gencode annotation
+reference_data/
+# nothing
+meta/
+# bams
+results/bowtie2/
+# narrowPeak files
+raw_data/peaks_unfiltered/
+results/peaks_filtered/
+# logs may have secrets
+logs/
+
+# For python
+venv/
+.venv/
+__pycache__/
+scripts/__pycache__/
+
+# If using secrets
+.env
+.env.local
+.env.*.local
+
